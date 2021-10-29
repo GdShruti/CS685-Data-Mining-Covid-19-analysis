@@ -1,0 +1,6549 @@
+{
+    "agar malwa_madhya pradesh": {
+        "id": 101,
+        "neighbors": [
+            "jhalawar_rajasthan",
+            "rajgarh_madhya pradesh",
+            "ratlam_madhya pradesh",
+            "shajapur_madhya pradesh",
+            "ujjain_madhya pradesh"
+        ]
+    },
+    "agra_uttar pradesh": {
+        "id": 102,
+        "neighbors": [
+            "bharatpur_rajasthan",
+            "bhind_madhya pradesh",
+            "dholpur_rajasthan",
+            "etah_uttar pradesh",
+            "etawah_uttar pradesh",
+            "firozabad_uttar pradesh",
+            "hathras_uttar pradesh",
+            "mathura_uttar pradesh",
+            "morena_madhya pradesh"
+        ]
+    },
+    "ahmedabad_gujarat": {
+        "id": 103,
+        "neighbors": [
+            "anand_gujarat",
+            "bhavnagar_gujarat",
+            "botad_gujarat",
+            "gandhinagar_gujarat",
+            "kheda_gujarat",
+            "mehsana_gujarat",
+            "surendranagar_gujarat"
+        ]
+    },
+    "ahmednagar_maharashtra": {
+        "id": 104,
+        "neighbors": [
+            "aurangabad_maharashtra",
+            "beed_maharashtra",
+            "nashik_maharashtra",
+            "osmanabad_maharashtra",
+            "pune_maharashtra",
+            "solapur_maharashtra",
+            "thane_maharashtra"
+        ]
+    },
+    "aizawl_mizoram": {
+        "id": 105,
+        "neighbors": [
+            "champhai_mizoram",
+            "kolasib_mizoram",
+            "lunglei_mizoram",
+            "mamit_mizoram",
+            "serchhip_mizoram",
+            "unknown_assam",
+            "unknown_manipur"
+        ]
+    },
+    "ajmer_rajasthan": {
+        "id": 106,
+        "neighbors": [
+            "bhilwara_rajasthan",
+            "jaipur_rajasthan",
+            "nagaur_rajasthan",
+            "pali_rajasthan",
+            "rajsamand_rajasthan",
+            "tonk_rajasthan"
+        ]
+    },
+    "akola_maharashtra": {
+        "id": 107,
+        "neighbors": [
+            "amravati_maharashtra",
+            "buldhana_maharashtra",
+            "washim_maharashtra"
+        ]
+    },
+    "alappuzha_kerala": {
+        "id": 108,
+        "neighbors": [
+            "ernakulam_kerala",
+            "kollam_kerala",
+            "kottayam_kerala",
+            "pathanamthitta_kerala"
+        ]
+    },
+    "aligarh_uttar pradesh": {
+        "id": 109,
+        "neighbors": [
+            "budaun_uttar pradesh",
+            "bulandshahr_uttar pradesh",
+            "gautam buddha nagar_uttar pradesh",
+            "hathras_uttar pradesh",
+            "kasganj_uttar pradesh",
+            "mathura_uttar pradesh",
+            "palwal_haryana",
+            "sambhal_uttar pradesh"
+        ]
+    },
+    "alipurduar_west bengal": {
+        "id": 110,
+        "neighbors": [
+            "cooch behar_west bengal",
+            "jalpaiguri_west bengal",
+            "unknown_assam"
+        ]
+    },
+    "alirajpur_madhya pradesh": {
+        "id": 111,
+        "neighbors": [
+            "barwani_madhya pradesh",
+            "chhota udaipur_gujarat",
+            "dahod_gujarat",
+            "dhar_madhya pradesh",
+            "jhabua_madhya pradesh",
+            "nandurbar_maharashtra"
+        ]
+    },
+    "almora_uttarakhand": {
+        "id": 112,
+        "neighbors": [
+            "bageshwar_uttarakhand",
+            "chamoli_uttarakhand",
+            "champawat_uttarakhand",
+            "nainital_uttarakhand",
+            "pauri garhwal_uttarakhand",
+            "pithoragarh_uttarakhand"
+        ]
+    },
+    "alwar_rajasthan": {
+        "id": 113,
+        "neighbors": [
+            "bharatpur_rajasthan",
+            "dausa_rajasthan",
+            "jaipur_rajasthan",
+            "mahendragarh_haryana",
+            "nuh_haryana",
+            "rewari_haryana"
+        ]
+    },
+    "ambala_haryana": {
+        "id": 114,
+        "neighbors": [
+            "kurukshetra_haryana",
+            "panchkula_haryana",
+            "patiala_punjab",
+            "s.a.s. nagar_punjab",
+            "sirmaur_himachal pradesh",
+            "yamunanagar_haryana"
+        ]
+    },
+    "ambedkar nagar_uttar pradesh": {
+        "id": 115,
+        "neighbors": [
+            "ayodhya_uttar pradesh",
+            "azamgarh_uttar pradesh",
+            "basti_uttar pradesh",
+            "gorakhpur_uttar pradesh",
+            "sant kabir nagar_uttar pradesh",
+            "sultanpur_uttar pradesh"
+        ]
+    },
+    "amethi_uttar pradesh": {
+        "id": 116,
+        "neighbors": [
+            "ayodhya_uttar pradesh",
+            "barabanki_uttar pradesh",
+            "pratapgarh_uttar pradesh",
+            "rae bareli_uttar pradesh",
+            "sultanpur_uttar pradesh"
+        ]
+    },
+    "amravati_maharashtra": {
+        "id": 117,
+        "neighbors": [
+            "akola_maharashtra",
+            "betul_madhya pradesh",
+            "buldhana_maharashtra",
+            "burhanpur_madhya pradesh",
+            "chhindwara_madhya pradesh",
+            "khandwa_madhya pradesh",
+            "nagpur_maharashtra",
+            "wardha_maharashtra",
+            "washim_maharashtra",
+            "yavatmal_maharashtra"
+        ]
+    },
+    "amreli_gujarat": {
+        "id": 118,
+        "neighbors": [
+            "bhavnagar_gujarat",
+            "botad_gujarat",
+            "gir somnath_gujarat",
+            "junagadh_gujarat",
+            "rajkot_gujarat"
+        ]
+    },
+    "amritsar_punjab": {
+        "id": 119,
+        "neighbors": [
+            "gurdaspur_punjab",
+            "kapurthala_punjab",
+            "tarn taran_punjab"
+        ]
+    },
+    "amroha_uttar pradesh": {
+        "id": 120,
+        "neighbors": [
+            "bijnor_uttar pradesh",
+            "bulandshahr_uttar pradesh",
+            "hapur_uttar pradesh",
+            "meerut_uttar pradesh",
+            "moradabad_uttar pradesh",
+            "sambhal_uttar pradesh"
+        ]
+    },
+    "anand_gujarat": {
+        "id": 121,
+        "neighbors": [
+            "ahmedabad_gujarat",
+            "bharuch_gujarat",
+            "kheda_gujarat",
+            "vadodara_gujarat"
+        ]
+    },
+    "anantapur_andhra pradesh": {
+        "id": 122,
+        "neighbors": [
+            "ballari_karnataka",
+            "chikkaballapura_karnataka",
+            "chitradurga_karnataka",
+            "chittoor_andhra pradesh",
+            "kurnool_andhra pradesh",
+            "tumakuru_karnataka",
+            "y.s.r. kadapa_andhra pradesh"
+        ]
+    },
+    "anantnag_jammu and kashmir": {
+        "id": 123,
+        "neighbors": [
+            "doda_jammu and kashmir",
+            "ganderbal_jammu and kashmir",
+            "kargil_ladakh",
+            "kishtwar_jammu and kashmir",
+            "kulgam_jammu and kashmir",
+            "pulwama_jammu and kashmir",
+            "ramban_jammu and kashmir",
+            "shopiyan_jammu and kashmir",
+            "srinagar_jammu and kashmir"
+        ]
+    },
+    "angul_odisha": {
+        "id": 124,
+        "neighbors": [
+            "boudh_odisha",
+            "cuttack_odisha",
+            "deogarh_odisha",
+            "dhenkanal_odisha",
+            "kendujhar_odisha",
+            "nayagarh_odisha",
+            "sambalpur_odisha",
+            "subarnapur_odisha",
+            "sundargarh_odisha"
+        ]
+    },
+    "anjaw_arunachal pradesh": {
+        "id": 125,
+        "neighbors": [
+            "changlang_arunachal pradesh",
+            "lohit_arunachal pradesh"
+        ]
+    },
+    "anuppur_madhya pradesh": {
+        "id": 126,
+        "neighbors": [
+            "bilaspur_chhattisgarh",
+            "dindori_madhya pradesh",
+            "koriya_chhattisgarh",
+            "mungeli_chhattisgarh",
+            "shahdol_madhya pradesh",
+            "umaria_madhya pradesh"
+        ]
+    },
+    "araria_bihar": {
+        "id": 127,
+        "neighbors": [
+            "kishanganj_bihar",
+            "madhepura_bihar",
+            "purnia_bihar",
+            "supaul_bihar"
+        ]
+    },
+    "aravalli_gujarat": {
+        "id": 128,
+        "neighbors": [
+            "dungarpur_rajasthan",
+            "gandhinagar_gujarat",
+            "kheda_gujarat",
+            "mahisagar_gujarat",
+            "sabarkantha_gujarat",
+            "udaipur_rajasthan"
+        ]
+    },
+    "ariyalur_tamil nadu": {
+        "id": 129,
+        "neighbors": [
+            "cuddalore_tamil nadu",
+            "perambalur_tamil nadu",
+            "thanjavur_tamil nadu",
+            "tiruchirappalli_tamil nadu"
+        ]
+    },
+    "arwal_bihar": {
+        "id": 130,
+        "neighbors": [
+            "aurangabad_bihar",
+            "bhojpur_bihar",
+            "gaya_bihar",
+            "jehanabad_bihar",
+            "patna_bihar",
+            "rohtas_bihar"
+        ]
+    },
+    "ashoknagar_madhya pradesh": {
+        "id": 131,
+        "neighbors": [
+            "guna_madhya pradesh",
+            "lalitpur_uttar pradesh",
+            "sagar_madhya pradesh",
+            "shivpuri_madhya pradesh",
+            "vidisha_madhya pradesh"
+        ]
+    },
+    "auraiya_uttar pradesh": {
+        "id": 132,
+        "neighbors": [
+            "etawah_uttar pradesh",
+            "jalaun_uttar pradesh",
+            "kannauj_uttar pradesh",
+            "kanpur dehat_uttar pradesh"
+        ]
+    },
+    "aurangabad_bihar": {
+        "id": 133,
+        "neighbors": [
+            "arwal_bihar",
+            "gaya_bihar",
+            "palamu_jharkhand",
+            "rohtas_bihar"
+        ]
+    },
+    "aurangabad_maharashtra": {
+        "id": 134,
+        "neighbors": [
+            "ahmednagar_maharashtra",
+            "beed_maharashtra",
+            "jalgaon_maharashtra",
+            "jalna_maharashtra",
+            "nashik_maharashtra"
+        ]
+    },
+    "ayodhya_uttar pradesh": {
+        "id": 135,
+        "neighbors": [
+            "ambedkar nagar_uttar pradesh",
+            "amethi_uttar pradesh",
+            "barabanki_uttar pradesh",
+            "basti_uttar pradesh",
+            "gonda_uttar pradesh",
+            "sultanpur_uttar pradesh"
+        ]
+    },
+    "azamgarh_uttar pradesh": {
+        "id": 136,
+        "neighbors": [
+            "ambedkar nagar_uttar pradesh",
+            "ghazipur_uttar pradesh",
+            "gorakhpur_uttar pradesh",
+            "jaunpur_uttar pradesh",
+            "mau_uttar pradesh",
+            "sultanpur_uttar pradesh"
+        ]
+    },
+    "bagalkote_karnataka": {
+        "id": 137,
+        "neighbors": [
+            "belagavi_karnataka",
+            "gadag_karnataka",
+            "koppal_karnataka",
+            "raichur_karnataka",
+            "vijayapura_karnataka"
+        ]
+    },
+    "bageshwar_uttarakhand": {
+        "id": 138,
+        "neighbors": [
+            "almora_uttarakhand",
+            "chamoli_uttarakhand",
+            "pithoragarh_uttarakhand"
+        ]
+    },
+    "baghpat_uttar pradesh": {
+        "id": 139,
+        "neighbors": [
+            "delhi_delhi",
+            "ghaziabad_uttar pradesh",
+            "meerut_uttar pradesh",
+            "muzaffarnagar_uttar pradesh",
+            "panipat_haryana",
+            "shamli_uttar pradesh",
+            "sonipat_haryana"
+        ]
+    },
+    "bahraich_uttar pradesh": {
+        "id": 140,
+        "neighbors": [
+            "barabanki_uttar pradesh",
+            "gonda_uttar pradesh",
+            "lakhimpur kheri_uttar pradesh",
+            "shrawasti_uttar pradesh",
+            "sitapur_uttar pradesh"
+        ]
+    },
+    "balaghat_madhya pradesh": {
+        "id": 141,
+        "neighbors": [
+            "bhandara_maharashtra",
+            "gondia_maharashtra",
+            "kabeerdham_chhattisgarh",
+            "mandla_madhya pradesh",
+            "nagpur_maharashtra",
+            "rajnandgaon_chhattisgarh",
+            "seoni_madhya pradesh"
+        ]
+    },
+    "balangir_odisha": {
+        "id": 142,
+        "neighbors": [
+            "bargarh_odisha",
+            "boudh_odisha",
+            "kalahandi_odisha",
+            "kandhamal_odisha",
+            "nuapada_odisha",
+            "subarnapur_odisha"
+        ]
+    },
+    "balasore_odisha": {
+        "id": 143,
+        "neighbors": [
+            "bhadrak_odisha",
+            "jhargram_west bengal",
+            "kendujhar_odisha",
+            "mayurbhanj_odisha",
+            "paschim medinipur_west bengal",
+            "purba medinipur_west bengal"
+        ]
+    },
+    "ballari_karnataka": {
+        "id": 144,
+        "neighbors": [
+            "anantapur_andhra pradesh",
+            "chitradurga_karnataka",
+            "davanagere_karnataka",
+            "gadag_karnataka",
+            "haveri_karnataka",
+            "koppal_karnataka",
+            "kurnool_andhra pradesh",
+            "raichur_karnataka"
+        ]
+    },
+    "ballia_uttar pradesh": {
+        "id": 145,
+        "neighbors": [
+            "bhojpur_bihar",
+            "buxar_bihar",
+            "deoria_uttar pradesh",
+            "ghazipur_uttar pradesh",
+            "mau_uttar pradesh",
+            "saran_bihar",
+            "siwan_bihar"
+        ]
+    },
+    "balod_chhattisgarh": {
+        "id": 146,
+        "neighbors": [
+            "dhamtari_chhattisgarh",
+            "durg_chhattisgarh",
+            "rajnandgaon_chhattisgarh",
+            "uttar bastar kanker_chhattisgarh"
+        ]
+    },
+    "baloda bazar_chhattisgarh": {
+        "id": 147,
+        "neighbors": [
+            "bametara_chhattisgarh",
+            "bilaspur_chhattisgarh",
+            "janjgir champa_chhattisgarh",
+            "mahasamund_chhattisgarh",
+            "mungeli_chhattisgarh",
+            "raigarh_chhattisgarh",
+            "raipur_chhattisgarh"
+        ]
+    },
+    "balrampur_chhattisgarh": {
+        "id": 148,
+        "neighbors": [
+            "garhwa_jharkhand",
+            "gumla_jharkhand",
+            "jashpur_chhattisgarh",
+            "latehar_jharkhand",
+            "singrauli_madhya pradesh",
+            "sonbhadra_uttar pradesh",
+            "surajpur_chhattisgarh",
+            "surguja_chhattisgarh"
+        ]
+    },
+    "balrampur_uttar pradesh": {
+        "id": 149,
+        "neighbors": [
+            "gonda_uttar pradesh",
+            "shrawasti_uttar pradesh",
+            "siddharthnagar_uttar pradesh"
+        ]
+    },
+    "bametara_chhattisgarh": {
+        "id": 150,
+        "neighbors": [
+            "baloda bazar_chhattisgarh",
+            "durg_chhattisgarh",
+            "kabeerdham_chhattisgarh",
+            "mungeli_chhattisgarh",
+            "raipur_chhattisgarh",
+            "rajnandgaon_chhattisgarh"
+        ]
+    },
+    "banaskantha_gujarat": {
+        "id": 151,
+        "neighbors": [
+            "jalore_rajasthan",
+            "kutch_gujarat",
+            "mehsana_gujarat",
+            "patan_gujarat",
+            "sabarkantha_gujarat",
+            "sirohi_rajasthan"
+        ]
+    },
+    "banda_uttar pradesh": {
+        "id": 152,
+        "neighbors": [
+            "chhatarpur_madhya pradesh",
+            "chitrakoot_uttar pradesh",
+            "fatehpur_uttar pradesh",
+            "hamirpur_uttar pradesh",
+            "mahoba_uttar pradesh",
+            "panna_madhya pradesh",
+            "satna_madhya pradesh"
+        ]
+    },
+    "bandipora_jammu and kashmir": {
+        "id": 153,
+        "neighbors": [
+            "baramulla_jammu and kashmir",
+            "ganderbal_jammu and kashmir",
+            "kargil_ladakh",
+            "kupwara_jammu and kashmir",
+            "srinagar_jammu and kashmir"
+        ]
+    },
+    "banka_bihar": {
+        "id": 154,
+        "neighbors": [
+            "bhagalpur_bihar",
+            "deoghar_jharkhand",
+            "dumka_jharkhand",
+            "godda_jharkhand",
+            "jamui_bihar",
+            "munger_bihar"
+        ]
+    },
+    "bankura_west bengal": {
+        "id": 155,
+        "neighbors": [
+            "hooghly_west bengal",
+            "jhargram_west bengal",
+            "paschim bardhaman_west bengal",
+            "paschim medinipur_west bengal",
+            "purba bardhaman_west bengal",
+            "purulia_west bengal"
+        ]
+    },
+    "banswara_rajasthan": {
+        "id": 156,
+        "neighbors": [
+            "dahod_gujarat",
+            "dungarpur_rajasthan",
+            "jhabua_madhya pradesh",
+            "mahisagar_gujarat",
+            "pratapgarh_rajasthan",
+            "ratlam_madhya pradesh"
+        ]
+    },
+    "barabanki_uttar pradesh": {
+        "id": 157,
+        "neighbors": [
+            "amethi_uttar pradesh",
+            "ayodhya_uttar pradesh",
+            "bahraich_uttar pradesh",
+            "gonda_uttar pradesh",
+            "lucknow_uttar pradesh",
+            "rae bareli_uttar pradesh",
+            "sitapur_uttar pradesh"
+        ]
+    },
+    "baramulla_jammu and kashmir": {
+        "id": 158,
+        "neighbors": [
+            "bandipora_jammu and kashmir",
+            "budgam_jammu and kashmir",
+            "kupwara_jammu and kashmir",
+            "punch_jammu and kashmir",
+            "srinagar_jammu and kashmir"
+        ]
+    },
+    "baran_rajasthan": {
+        "id": 159,
+        "neighbors": [
+            "guna_madhya pradesh",
+            "jhalawar_rajasthan",
+            "kota_rajasthan",
+            "sheopur_madhya pradesh",
+            "shivpuri_madhya pradesh"
+        ]
+    },
+    "bareilly_uttar pradesh": {
+        "id": 160,
+        "neighbors": [
+            "budaun_uttar pradesh",
+            "pilibhit_uttar pradesh",
+            "rampur_uttar pradesh",
+            "shahjahanpur_uttar pradesh",
+            "udham singh nagar_uttarakhand"
+        ]
+    },
+    "bargarh_odisha": {
+        "id": 161,
+        "neighbors": [
+            "balangir_odisha",
+            "jharsuguda_odisha",
+            "mahasamund_chhattisgarh",
+            "nuapada_odisha",
+            "raigarh_chhattisgarh",
+            "sambalpur_odisha",
+            "subarnapur_odisha"
+        ]
+    },
+    "barmer_rajasthan": {
+        "id": 162,
+        "neighbors": [
+            "jaisalmer_rajasthan",
+            "jalore_rajasthan",
+            "jodhpur_rajasthan",
+            "kutch_gujarat",
+            "pali_rajasthan"
+        ]
+    },
+    "barnala_punjab": {
+        "id": 163,
+        "neighbors": [
+            "bathinda_punjab",
+            "ludhiana_punjab",
+            "mansa_punjab",
+            "moga_punjab",
+            "sangrur_punjab"
+        ]
+    },
+    "barwani_madhya pradesh": {
+        "id": 164,
+        "neighbors": [
+            "alirajpur_madhya pradesh",
+            "dhar_madhya pradesh",
+            "dhule_maharashtra",
+            "jalgaon_maharashtra",
+            "khargone_madhya pradesh",
+            "nandurbar_maharashtra"
+        ]
+    },
+    "bastar_chhattisgarh": {
+        "id": 165,
+        "neighbors": [
+            "dakshin bastar dantewada_chhattisgarh",
+            "kondagaon_chhattisgarh",
+            "koraput_odisha",
+            "malkangiri_odisha",
+            "nabarangapur_odisha",
+            "sukma_chhattisgarh"
+        ]
+    },
+    "basti_uttar pradesh": {
+        "id": 166,
+        "neighbors": [
+            "ambedkar nagar_uttar pradesh",
+            "ayodhya_uttar pradesh",
+            "gonda_uttar pradesh",
+            "sant kabir nagar_uttar pradesh",
+            "siddharthnagar_uttar pradesh"
+        ]
+    },
+    "bathinda_punjab": {
+        "id": 167,
+        "neighbors": [
+            "barnala_punjab",
+            "faridkot_punjab",
+            "mansa_punjab",
+            "moga_punjab",
+            "sirsa_haryana",
+            "sri muktsar sahib_punjab"
+        ]
+    },
+    "beed_maharashtra": {
+        "id": 168,
+        "neighbors": [
+            "ahmednagar_maharashtra",
+            "aurangabad_maharashtra",
+            "jalna_maharashtra",
+            "latur_maharashtra",
+            "osmanabad_maharashtra",
+            "parbhani_maharashtra"
+        ]
+    },
+    "begusarai_bihar": {
+        "id": 169,
+        "neighbors": [
+            "khagaria_bihar",
+            "lakhisarai_bihar",
+            "munger_bihar",
+            "patna_bihar",
+            "samastipur_bihar"
+        ]
+    },
+    "belagavi_karnataka": {
+        "id": 170,
+        "neighbors": [
+            "bagalkote_karnataka",
+            "dharwad_karnataka",
+            "gadag_karnataka",
+            "kolhapur_maharashtra",
+            "sangli_maharashtra",
+            "sindhudurg_maharashtra",
+            "unknown_goa",
+            "uttara kannada_karnataka",
+            "vijayapura_karnataka"
+        ]
+    },
+    "bengaluru rural_karnataka": {
+        "id": 171,
+        "neighbors": [
+            "bengaluru urban_karnataka",
+            "chikkaballapura_karnataka",
+            "kolar_karnataka",
+            "krishnagiri_tamil nadu",
+            "ramanagara_karnataka",
+            "tumakuru_karnataka"
+        ]
+    },
+    "bengaluru urban_karnataka": {
+        "id": 172,
+        "neighbors": [
+            "bengaluru rural_karnataka",
+            "krishnagiri_tamil nadu",
+            "ramanagara_karnataka"
+        ]
+    },
+    "betul_madhya pradesh": {
+        "id": 173,
+        "neighbors": [
+            "amravati_maharashtra",
+            "chhindwara_madhya pradesh",
+            "harda_madhya pradesh",
+            "hoshangabad_madhya pradesh",
+            "khandwa_madhya pradesh"
+        ]
+    },
+    "bhadohi_uttar pradesh": {
+        "id": 174,
+        "neighbors": [
+            "jaunpur_uttar pradesh",
+            "mirzapur_uttar pradesh",
+            "prayagraj_uttar pradesh",
+            "varanasi_uttar pradesh"
+        ]
+    },
+    "bhadrak_odisha": {
+        "id": 175,
+        "neighbors": [
+            "balasore_odisha",
+            "jajpur_odisha",
+            "kendrapara_odisha",
+            "kendujhar_odisha"
+        ]
+    },
+    "bhagalpur_bihar": {
+        "id": 176,
+        "neighbors": [
+            "banka_bihar",
+            "godda_jharkhand",
+            "katihar_bihar",
+            "khagaria_bihar",
+            "madhepura_bihar",
+            "munger_bihar",
+            "purnia_bihar",
+            "sahibganj_jharkhand"
+        ]
+    },
+    "bhandara_maharashtra": {
+        "id": 177,
+        "neighbors": [
+            "balaghat_madhya pradesh",
+            "chandrapur_maharashtra",
+            "gadchiroli_maharashtra",
+            "gondia_maharashtra",
+            "nagpur_maharashtra"
+        ]
+    },
+    "bharatpur_rajasthan": {
+        "id": 178,
+        "neighbors": [
+            "agra_uttar pradesh",
+            "alwar_rajasthan",
+            "dausa_rajasthan",
+            "dholpur_rajasthan",
+            "karauli_rajasthan",
+            "mathura_uttar pradesh",
+            "nuh_haryana"
+        ]
+    },
+    "bharuch_gujarat": {
+        "id": 179,
+        "neighbors": [
+            "anand_gujarat",
+            "narmada_gujarat",
+            "surat_gujarat",
+            "vadodara_gujarat"
+        ]
+    },
+    "bhavnagar_gujarat": {
+        "id": 180,
+        "neighbors": [
+            "ahmedabad_gujarat",
+            "amreli_gujarat",
+            "botad_gujarat"
+        ]
+    },
+    "bhilwara_rajasthan": {
+        "id": 181,
+        "neighbors": [
+            "ajmer_rajasthan",
+            "bundi_rajasthan",
+            "chittorgarh_rajasthan",
+            "neemuch_madhya pradesh",
+            "rajsamand_rajasthan",
+            "tonk_rajasthan"
+        ]
+    },
+    "bhind_madhya pradesh": {
+        "id": 182,
+        "neighbors": [
+            "agra_uttar pradesh",
+            "datia_madhya pradesh",
+            "etawah_uttar pradesh",
+            "gwalior_madhya pradesh",
+            "jalaun_uttar pradesh",
+            "jhansi_uttar pradesh",
+            "morena_madhya pradesh"
+        ]
+    },
+    "bhiwani_haryana": {
+        "id": 183,
+        "neighbors": [
+            "charkhi dadri_haryana",
+            "churu_rajasthan",
+            "hanumangarh_rajasthan",
+            "hisar_haryana",
+            "jhunjhunu_rajasthan",
+            "mahendragarh_haryana",
+            "rohtak_haryana"
+        ]
+    },
+    "bhojpur_bihar": {
+        "id": 184,
+        "neighbors": [
+            "arwal_bihar",
+            "ballia_uttar pradesh",
+            "buxar_bihar",
+            "patna_bihar",
+            "rohtas_bihar",
+            "saran_bihar"
+        ]
+    },
+    "bhopal_madhya pradesh": {
+        "id": 185,
+        "neighbors": [
+            "guna_madhya pradesh",
+            "raisen_madhya pradesh",
+            "rajgarh_madhya pradesh",
+            "sehore_madhya pradesh",
+            "vidisha_madhya pradesh"
+        ]
+    },
+    "bidar_karnataka": {
+        "id": 186,
+        "neighbors": [
+            "kalaburagi_karnataka",
+            "latur_maharashtra",
+            "nanded_maharashtra",
+            "osmanabad_maharashtra",
+            "unknown_telangana"
+        ]
+    },
+    "bijapur_chhattisgarh": {
+        "id": 187,
+        "neighbors": [
+            "dakshin bastar dantewada_chhattisgarh",
+            "gadchiroli_maharashtra",
+            "narayanpur_chhattisgarh",
+            "sukma_chhattisgarh",
+            "unknown_telangana"
+        ]
+    },
+    "bijnor_uttar pradesh": {
+        "id": 188,
+        "neighbors": [
+            "amroha_uttar pradesh",
+            "haridwar_uttarakhand",
+            "meerut_uttar pradesh",
+            "moradabad_uttar pradesh",
+            "muzaffarnagar_uttar pradesh",
+            "nainital_uttarakhand",
+            "pauri garhwal_uttarakhand",
+            "udham singh nagar_uttarakhand"
+        ]
+    },
+    "bikaner_rajasthan": {
+        "id": 189,
+        "neighbors": [
+            "churu_rajasthan",
+            "ganganagar_rajasthan",
+            "hanumangarh_rajasthan",
+            "jaisalmer_rajasthan",
+            "jodhpur_rajasthan",
+            "nagaur_rajasthan"
+        ]
+    },
+    "bilaspur_chhattisgarh": {
+        "id": 190,
+        "neighbors": [
+            "anuppur_madhya pradesh",
+            "baloda bazar_chhattisgarh",
+            "janjgir champa_chhattisgarh",
+            "korba_chhattisgarh",
+            "koriya_chhattisgarh",
+            "mungeli_chhattisgarh"
+        ]
+    },
+    "bilaspur_himachal pradesh": {
+        "id": 191,
+        "neighbors": [
+            "hamirpur_himachal pradesh",
+            "mandi_himachal pradesh",
+            "rupnagar_punjab",
+            "solan_himachal pradesh",
+            "una_himachal pradesh"
+        ]
+    },
+    "birbhum_west bengal": {
+        "id": 192,
+        "neighbors": [
+            "dumka_jharkhand",
+            "jamtara_jharkhand",
+            "murshidabad_west bengal",
+            "pakur_jharkhand",
+            "paschim bardhaman_west bengal",
+            "purba bardhaman_west bengal"
+        ]
+    },
+    "bokaro_jharkhand": {
+        "id": 193,
+        "neighbors": [
+            "dhanbad_jharkhand",
+            "giridih_jharkhand",
+            "hazaribagh_jharkhand",
+            "purulia_west bengal",
+            "ramgarh_jharkhand"
+        ]
+    },
+    "botad_gujarat": {
+        "id": 194,
+        "neighbors": [
+            "ahmedabad_gujarat",
+            "amreli_gujarat",
+            "bhavnagar_gujarat",
+            "rajkot_gujarat",
+            "surendranagar_gujarat"
+        ]
+    },
+    "boudh_odisha": {
+        "id": 195,
+        "neighbors": [
+            "angul_odisha",
+            "balangir_odisha",
+            "kandhamal_odisha",
+            "nayagarh_odisha",
+            "subarnapur_odisha"
+        ]
+    },
+    "budaun_uttar pradesh": {
+        "id": 196,
+        "neighbors": [
+            "aligarh_uttar pradesh",
+            "bareilly_uttar pradesh",
+            "farrukhabad_uttar pradesh",
+            "kasganj_uttar pradesh",
+            "moradabad_uttar pradesh",
+            "rampur_uttar pradesh",
+            "sambhal_uttar pradesh",
+            "shahjahanpur_uttar pradesh"
+        ]
+    },
+    "budgam_jammu and kashmir": {
+        "id": 197,
+        "neighbors": [
+            "baramulla_jammu and kashmir",
+            "kulgam_jammu and kashmir",
+            "pulwama_jammu and kashmir",
+            "punch_jammu and kashmir",
+            "shopiyan_jammu and kashmir",
+            "srinagar_jammu and kashmir"
+        ]
+    },
+    "bulandshahr_uttar pradesh": {
+        "id": 198,
+        "neighbors": [
+            "aligarh_uttar pradesh",
+            "amroha_uttar pradesh",
+            "gautam buddha nagar_uttar pradesh",
+            "hapur_uttar pradesh",
+            "sambhal_uttar pradesh"
+        ]
+    },
+    "buldhana_maharashtra": {
+        "id": 199,
+        "neighbors": [
+            "akola_maharashtra",
+            "amravati_maharashtra",
+            "burhanpur_madhya pradesh",
+            "jalgaon_maharashtra",
+            "jalna_maharashtra",
+            "parbhani_maharashtra",
+            "washim_maharashtra"
+        ]
+    },
+    "bundi_rajasthan": {
+        "id": 200,
+        "neighbors": [
+            "bhilwara_rajasthan",
+            "chittorgarh_rajasthan",
+            "kota_rajasthan",
+            "sawai madhopur_rajasthan",
+            "tonk_rajasthan"
+        ]
+    },
+    "burhanpur_madhya pradesh": {
+        "id": 201,
+        "neighbors": [
+            "amravati_maharashtra",
+            "buldhana_maharashtra",
+            "jalgaon_maharashtra",
+            "khandwa_madhya pradesh",
+            "khargone_madhya pradesh"
+        ]
+    },
+    "buxar_bihar": {
+        "id": 202,
+        "neighbors": [
+            "ballia_uttar pradesh",
+            "bhojpur_bihar",
+            "ghazipur_uttar pradesh",
+            "kaimur_bihar",
+            "rohtas_bihar"
+        ]
+    },
+    "chamarajanagara_karnataka": {
+        "id": 203,
+        "neighbors": [
+            "dharmapuri_tamil nadu",
+            "erode_tamil nadu",
+            "krishnagiri_tamil nadu",
+            "mandya_karnataka",
+            "mysuru_karnataka",
+            "nilgiris_tamil nadu",
+            "ramanagara_karnataka",
+            "salem_tamil nadu",
+            "wayanad_kerala"
+        ]
+    },
+    "chamba_himachal pradesh": {
+        "id": 204,
+        "neighbors": [
+            "doda_jammu and kashmir",
+            "kangra_himachal pradesh",
+            "kathua_jammu and kashmir",
+            "kishtwar_jammu and kashmir",
+            "lahaul and spiti_himachal pradesh",
+            "pathankot_punjab"
+        ]
+    },
+    "chamoli_uttarakhand": {
+        "id": 205,
+        "neighbors": [
+            "almora_uttarakhand",
+            "bageshwar_uttarakhand",
+            "pauri garhwal_uttarakhand",
+            "pithoragarh_uttarakhand",
+            "rudraprayag_uttarakhand",
+            "uttarkashi_uttarakhand"
+        ]
+    },
+    "champawat_uttarakhand": {
+        "id": 206,
+        "neighbors": [
+            "almora_uttarakhand",
+            "nainital_uttarakhand",
+            "pithoragarh_uttarakhand",
+            "udham singh nagar_uttarakhand"
+        ]
+    },
+    "champhai_mizoram": {
+        "id": 207,
+        "neighbors": [
+            "aizawl_mizoram",
+            "serchhip_mizoram",
+            "unknown_manipur"
+        ]
+    },
+    "chandauli_uttar pradesh": {
+        "id": 208,
+        "neighbors": [
+            "ghazipur_uttar pradesh",
+            "kaimur_bihar",
+            "mirzapur_uttar pradesh",
+            "sonbhadra_uttar pradesh",
+            "varanasi_uttar pradesh"
+        ]
+    },
+    "chandigarh_chandigarh": {
+        "id": 209,
+        "neighbors": [
+            "panchkula_haryana",
+            "s.a.s. nagar_punjab"
+        ]
+    },
+    "chandrapur_maharashtra": {
+        "id": 210,
+        "neighbors": [
+            "bhandara_maharashtra",
+            "gadchiroli_maharashtra",
+            "nagpur_maharashtra",
+            "unknown_telangana",
+            "wardha_maharashtra",
+            "yavatmal_maharashtra"
+        ]
+    },
+    "changlang_arunachal pradesh": {
+        "id": 211,
+        "neighbors": [
+            "anjaw_arunachal pradesh",
+            "lohit_arunachal pradesh",
+            "namsai_arunachal pradesh",
+            "tirap_arunachal pradesh",
+            "unknown_assam"
+        ]
+    },
+    "charkhi dadri_haryana": {
+        "id": 212,
+        "neighbors": [
+            "bhiwani_haryana",
+            "jhajjar_haryana",
+            "mahendragarh_haryana",
+            "rohtak_haryana"
+        ]
+    },
+    "chatra_jharkhand": {
+        "id": 213,
+        "neighbors": [
+            "gaya_bihar",
+            "hazaribagh_jharkhand",
+            "latehar_jharkhand",
+            "palamu_jharkhand",
+            "ranchi_jharkhand"
+        ]
+    },
+    "chennai_tamil nadu": {
+        "id": 214,
+        "neighbors": [
+            "kancheepuram_tamil nadu",
+            "thiruvallur_tamil nadu"
+        ]
+    },
+    "chhatarpur_madhya pradesh": {
+        "id": 215,
+        "neighbors": [
+            "banda_uttar pradesh",
+            "damoh_madhya pradesh",
+            "jhansi_uttar pradesh",
+            "lalitpur_uttar pradesh",
+            "mahoba_uttar pradesh",
+            "panna_madhya pradesh",
+            "sagar_madhya pradesh",
+            "tikamgarh_madhya pradesh"
+        ]
+    },
+    "chhindwara_madhya pradesh": {
+        "id": 216,
+        "neighbors": [
+            "amravati_maharashtra",
+            "betul_madhya pradesh",
+            "hoshangabad_madhya pradesh",
+            "nagpur_maharashtra",
+            "narsinghpur_madhya pradesh",
+            "seoni_madhya pradesh"
+        ]
+    },
+    "chhota udaipur_gujarat": {
+        "id": 217,
+        "neighbors": [
+            "alirajpur_madhya pradesh",
+            "dahod_gujarat",
+            "nandurbar_maharashtra",
+            "narmada_gujarat",
+            "panchmahal_gujarat",
+            "vadodara_gujarat"
+        ]
+    },
+    "chikkaballapura_karnataka": {
+        "id": 218,
+        "neighbors": [
+            "anantapur_andhra pradesh",
+            "bengaluru rural_karnataka",
+            "chittoor_andhra pradesh",
+            "kolar_karnataka",
+            "tumakuru_karnataka"
+        ]
+    },
+    "chikkamagaluru_karnataka": {
+        "id": 219,
+        "neighbors": [
+            "chitradurga_karnataka",
+            "dakshina kannada_karnataka",
+            "davanagere_karnataka",
+            "hassan_karnataka",
+            "shivamogga_karnataka",
+            "tumakuru_karnataka",
+            "udupi_karnataka"
+        ]
+    },
+    "chitradurga_karnataka": {
+        "id": 220,
+        "neighbors": [
+            "anantapur_andhra pradesh",
+            "ballari_karnataka",
+            "chikkamagaluru_karnataka",
+            "davanagere_karnataka",
+            "tumakuru_karnataka"
+        ]
+    },
+    "chitrakoot_uttar pradesh": {
+        "id": 221,
+        "neighbors": [
+            "banda_uttar pradesh",
+            "fatehpur_uttar pradesh",
+            "kaushambi_uttar pradesh",
+            "prayagraj_uttar pradesh",
+            "rewa_madhya pradesh",
+            "satna_madhya pradesh"
+        ]
+    },
+    "chittoor_andhra pradesh": {
+        "id": 222,
+        "neighbors": [
+            "anantapur_andhra pradesh",
+            "chikkaballapura_karnataka",
+            "kolar_karnataka",
+            "krishnagiri_tamil nadu",
+            "s.p.s. nellore_andhra pradesh",
+            "thiruvallur_tamil nadu",
+            "vellore_tamil nadu",
+            "y.s.r. kadapa_andhra pradesh"
+        ]
+    },
+    "chittorgarh_rajasthan": {
+        "id": 223,
+        "neighbors": [
+            "bhilwara_rajasthan",
+            "bundi_rajasthan",
+            "kota_rajasthan",
+            "mandsaur_madhya pradesh",
+            "neemuch_madhya pradesh",
+            "pratapgarh_rajasthan",
+            "rajsamand_rajasthan",
+            "udaipur_rajasthan"
+        ]
+    },
+    "churu_rajasthan": {
+        "id": 224,
+        "neighbors": [
+            "bhiwani_haryana",
+            "bikaner_rajasthan",
+            "hanumangarh_rajasthan",
+            "jhunjhunu_rajasthan",
+            "nagaur_rajasthan",
+            "sikar_rajasthan"
+        ]
+    },
+    "coimbatore_tamil nadu": {
+        "id": 225,
+        "neighbors": [
+            "ernakulam_kerala",
+            "erode_tamil nadu",
+            "idukki_kerala",
+            "nilgiris_tamil nadu",
+            "palakkad_kerala",
+            "thrissur_kerala",
+            "tiruppur_tamil nadu"
+        ]
+    },
+    "cooch behar_west bengal": {
+        "id": 226,
+        "neighbors": [
+            "alipurduar_west bengal",
+            "jalpaiguri_west bengal",
+            "unknown_assam"
+        ]
+    },
+    "cuddalore_tamil nadu": {
+        "id": 227,
+        "neighbors": [
+            "ariyalur_tamil nadu",
+            "kallakurichi_tamil nadu",
+            "nagapattinam_tamil nadu",
+            "perambalur_tamil nadu",
+            "puducherry_puducherry",
+            "thanjavur_tamil nadu",
+            "viluppuram_tamil nadu"
+        ]
+    },
+    "cuttack_odisha": {
+        "id": 228,
+        "neighbors": [
+            "angul_odisha",
+            "dhenkanal_odisha",
+            "jagatsinghpur_odisha",
+            "jajpur_odisha",
+            "kendrapara_odisha",
+            "khordha_odisha",
+            "nayagarh_odisha",
+            "puri_odisha"
+        ]
+    },
+    "dadra and nagar haveli_dadra and nagar haveli and daman and diu": {
+        "id": 229,
+        "neighbors": [
+            "palghar_maharashtra",
+            "valsad_gujarat"
+        ]
+    },
+    "dahod_gujarat": {
+        "id": 230,
+        "neighbors": [
+            "alirajpur_madhya pradesh",
+            "banswara_rajasthan",
+            "chhota udaipur_gujarat",
+            "jhabua_madhya pradesh",
+            "mahisagar_gujarat",
+            "panchmahal_gujarat"
+        ]
+    },
+    "dakshin bastar dantewada_chhattisgarh": {
+        "id": 231,
+        "neighbors": [
+            "bastar_chhattisgarh",
+            "bijapur_chhattisgarh",
+            "kondagaon_chhattisgarh",
+            "narayanpur_chhattisgarh",
+            "sukma_chhattisgarh"
+        ]
+    },
+    "dakshin dinajpur_west bengal": {
+        "id": 232,
+        "neighbors": [
+            "malda_west bengal",
+            "uttar dinajpur_west bengal"
+        ]
+    },
+    "dakshina kannada_karnataka": {
+        "id": 233,
+        "neighbors": [
+            "chikkamagaluru_karnataka",
+            "hassan_karnataka",
+            "kasaragod_kerala",
+            "kodagu_karnataka",
+            "udupi_karnataka"
+        ]
+    },
+    "daman_dadra and nagar haveli and daman and diu": {
+        "id": 234,
+        "neighbors": [
+            "valsad_gujarat"
+        ]
+    },
+    "damoh_madhya pradesh": {
+        "id": 235,
+        "neighbors": [
+            "chhatarpur_madhya pradesh",
+            "jabalpur_madhya pradesh",
+            "katni_madhya pradesh",
+            "narsinghpur_madhya pradesh",
+            "panna_madhya pradesh",
+            "sagar_madhya pradesh"
+        ]
+    },
+    "dang_gujarat": {
+        "id": 236,
+        "neighbors": [
+            "dhule_maharashtra",
+            "nashik_maharashtra",
+            "navsari_gujarat",
+            "tapi_gujarat"
+        ]
+    },
+    "darbhanga_bihar": {
+        "id": 237,
+        "neighbors": [
+            "madhubani_bihar",
+            "muzaffarpur_bihar",
+            "saharsa_bihar",
+            "samastipur_bihar",
+            "sitamarhi_bihar"
+        ]
+    },
+    "darjeeling_west bengal": {
+        "id": 238,
+        "neighbors": [
+            "jalpaiguri_west bengal",
+            "kalimpong_west bengal",
+            "kishanganj_bihar",
+            "unknown_sikkim",
+            "uttar dinajpur_west bengal"
+        ]
+    },
+    "datia_madhya pradesh": {
+        "id": 239,
+        "neighbors": [
+            "bhind_madhya pradesh",
+            "gwalior_madhya pradesh",
+            "jhansi_uttar pradesh",
+            "lalitpur_uttar pradesh",
+            "shivpuri_madhya pradesh"
+        ]
+    },
+    "dausa_rajasthan": {
+        "id": 240,
+        "neighbors": [
+            "alwar_rajasthan",
+            "bharatpur_rajasthan",
+            "jaipur_rajasthan",
+            "karauli_rajasthan",
+            "sawai madhopur_rajasthan",
+            "tonk_rajasthan"
+        ]
+    },
+    "davanagere_karnataka": {
+        "id": 241,
+        "neighbors": [
+            "ballari_karnataka",
+            "chikkamagaluru_karnataka",
+            "chitradurga_karnataka",
+            "haveri_karnataka",
+            "shivamogga_karnataka"
+        ]
+    },
+    "dehradun_uttarakhand": {
+        "id": 242,
+        "neighbors": [
+            "haridwar_uttarakhand",
+            "pauri garhwal_uttarakhand",
+            "saharanpur_uttar pradesh",
+            "shimla_himachal pradesh",
+            "sirmaur_himachal pradesh",
+            "tehri garhwal_uttarakhand",
+            "uttarkashi_uttarakhand"
+        ]
+    },
+    "delhi_delhi": {
+        "id": 243,
+        "neighbors": [
+            "baghpat_uttar pradesh",
+            "faridabad_haryana",
+            "gautam buddha nagar_uttar pradesh",
+            "ghaziabad_uttar pradesh",
+            "gurugram_haryana",
+            "jhajjar_haryana",
+            "sonipat_haryana"
+        ]
+    },
+    "deogarh_odisha": {
+        "id": 244,
+        "neighbors": [
+            "angul_odisha",
+            "sambalpur_odisha",
+            "sundargarh_odisha"
+        ]
+    },
+    "deoghar_jharkhand": {
+        "id": 245,
+        "neighbors": [
+            "banka_bihar",
+            "dumka_jharkhand",
+            "giridih_jharkhand",
+            "jamtara_jharkhand",
+            "jamui_bihar"
+        ]
+    },
+    "deoria_uttar pradesh": {
+        "id": 246,
+        "neighbors": [
+            "ballia_uttar pradesh",
+            "gopalganj_bihar",
+            "gorakhpur_uttar pradesh",
+            "kushinagar_uttar pradesh",
+            "mau_uttar pradesh",
+            "siwan_bihar"
+        ]
+    },
+    "devbhumi dwarka_gujarat": {
+        "id": 247,
+        "neighbors": [
+            "jamnagar_gujarat",
+            "porbandar_gujarat"
+        ]
+    },
+    "dewas_madhya pradesh": {
+        "id": 248,
+        "neighbors": [
+            "harda_madhya pradesh",
+            "indore_madhya pradesh",
+            "khandwa_madhya pradesh",
+            "khargone_madhya pradesh",
+            "sehore_madhya pradesh",
+            "shajapur_madhya pradesh",
+            "ujjain_madhya pradesh"
+        ]
+    },
+    "dhalai_tripura": {
+        "id": 249,
+        "neighbors": [
+            "gomati_tripura",
+            "khowai_tripura",
+            "north tripura_tripura",
+            "unokoti_tripura"
+        ]
+    },
+    "dhamtari_chhattisgarh": {
+        "id": 250,
+        "neighbors": [
+            "balod_chhattisgarh",
+            "durg_chhattisgarh",
+            "gariaband_chhattisgarh",
+            "kondagaon_chhattisgarh",
+            "nabarangapur_odisha",
+            "raipur_chhattisgarh",
+            "uttar bastar kanker_chhattisgarh"
+        ]
+    },
+    "dhanbad_jharkhand": {
+        "id": 251,
+        "neighbors": [
+            "bokaro_jharkhand",
+            "giridih_jharkhand",
+            "jamtara_jharkhand",
+            "paschim bardhaman_west bengal",
+            "purulia_west bengal"
+        ]
+    },
+    "dhar_madhya pradesh": {
+        "id": 252,
+        "neighbors": [
+            "alirajpur_madhya pradesh",
+            "barwani_madhya pradesh",
+            "indore_madhya pradesh",
+            "jhabua_madhya pradesh",
+            "khargone_madhya pradesh",
+            "ratlam_madhya pradesh",
+            "ujjain_madhya pradesh"
+        ]
+    },
+    "dharmapuri_tamil nadu": {
+        "id": 253,
+        "neighbors": [
+            "chamarajanagara_karnataka",
+            "erode_tamil nadu",
+            "kallakurichi_tamil nadu",
+            "krishnagiri_tamil nadu",
+            "salem_tamil nadu",
+            "tiruvannamalai_tamil nadu"
+        ]
+    },
+    "dharwad_karnataka": {
+        "id": 254,
+        "neighbors": [
+            "belagavi_karnataka",
+            "gadag_karnataka",
+            "haveri_karnataka",
+            "uttara kannada_karnataka"
+        ]
+    },
+    "dhenkanal_odisha": {
+        "id": 255,
+        "neighbors": [
+            "angul_odisha",
+            "cuttack_odisha",
+            "jajpur_odisha",
+            "kendujhar_odisha"
+        ]
+    },
+    "dholpur_rajasthan": {
+        "id": 256,
+        "neighbors": [
+            "agra_uttar pradesh",
+            "bharatpur_rajasthan",
+            "karauli_rajasthan",
+            "morena_madhya pradesh"
+        ]
+    },
+    "dhule_maharashtra": {
+        "id": 257,
+        "neighbors": [
+            "barwani_madhya pradesh",
+            "dang_gujarat",
+            "jalgaon_maharashtra",
+            "nandurbar_maharashtra",
+            "nashik_maharashtra",
+            "tapi_gujarat"
+        ]
+    },
+    "dimapur_nagaland": {
+        "id": 258,
+        "neighbors": [
+            "kohima_nagaland",
+            "peren_nagaland",
+            "unknown_assam"
+        ]
+    },
+    "dindigul_tamil nadu": {
+        "id": 259,
+        "neighbors": [
+            "idukki_kerala",
+            "karur_tamil nadu",
+            "madurai_tamil nadu",
+            "theni_tamil nadu",
+            "tiruchirappalli_tamil nadu",
+            "tiruppur_tamil nadu"
+        ]
+    },
+    "dindori_madhya pradesh": {
+        "id": 260,
+        "neighbors": [
+            "anuppur_madhya pradesh",
+            "jabalpur_madhya pradesh",
+            "kabeerdham_chhattisgarh",
+            "mandla_madhya pradesh",
+            "mungeli_chhattisgarh",
+            "umaria_madhya pradesh"
+        ]
+    },
+    "diu_dadra and nagar haveli and daman and diu": {
+        "id": 261,
+        "neighbors": [
+            "gir somnath_gujarat"
+        ]
+    },
+    "doda_jammu and kashmir": {
+        "id": 262,
+        "neighbors": [
+            "anantnag_jammu and kashmir",
+            "chamba_himachal pradesh",
+            "kathua_jammu and kashmir",
+            "kishtwar_jammu and kashmir",
+            "ramban_jammu and kashmir",
+            "udhampur_jammu and kashmir"
+        ]
+    },
+    "dumka_jharkhand": {
+        "id": 263,
+        "neighbors": [
+            "banka_bihar",
+            "birbhum_west bengal",
+            "deoghar_jharkhand",
+            "godda_jharkhand",
+            "jamtara_jharkhand",
+            "pakur_jharkhand"
+        ]
+    },
+    "dungarpur_rajasthan": {
+        "id": 264,
+        "neighbors": [
+            "aravalli_gujarat",
+            "banswara_rajasthan",
+            "mahisagar_gujarat",
+            "pratapgarh_rajasthan",
+            "udaipur_rajasthan"
+        ]
+    },
+    "durg_chhattisgarh": {
+        "id": 265,
+        "neighbors": [
+            "balod_chhattisgarh",
+            "bametara_chhattisgarh",
+            "dhamtari_chhattisgarh",
+            "raipur_chhattisgarh",
+            "rajnandgaon_chhattisgarh"
+        ]
+    },
+    "east champaran_bihar": {
+        "id": 266,
+        "neighbors": [
+            "gopalganj_bihar",
+            "muzaffarpur_bihar",
+            "sheohar_bihar",
+            "sitamarhi_bihar",
+            "west champaran_bihar"
+        ]
+    },
+    "east garo hills_meghalaya": {
+        "id": 267,
+        "neighbors": [
+            "north garo hills_meghalaya",
+            "south garo hills_meghalaya",
+            "west garo hills_meghalaya",
+            "west khasi hills_meghalaya"
+        ]
+    },
+    "east godavari_andhra pradesh": {
+        "id": 268,
+        "neighbors": [
+            "malkangiri_odisha",
+            "sukma_chhattisgarh",
+            "unknown_telangana",
+            "visakhapatnam_andhra pradesh",
+            "west godavari_andhra pradesh"
+        ]
+    },
+    "east jaintia hills_meghalaya": {
+        "id": 269,
+        "neighbors": [
+            "unknown_assam",
+            "west jaintia hills_meghalaya"
+        ]
+    },
+    "east kameng_arunachal pradesh": {
+        "id": 270,
+        "neighbors": [
+            "kurung kumey_arunachal pradesh",
+            "pakke kessang_arunachal pradesh",
+            "papum pare_arunachal pradesh",
+            "tawang_arunachal pradesh",
+            "west kameng_arunachal pradesh"
+        ]
+    },
+    "east khasi hills_meghalaya": {
+        "id": 271,
+        "neighbors": [
+            "ribhoi_meghalaya",
+            "south west khasi hills_meghalaya",
+            "west jaintia hills_meghalaya",
+            "west khasi hills_meghalaya"
+        ]
+    },
+    "east siang_arunachal pradesh": {
+        "id": 272,
+        "neighbors": [
+            "lower dibang valley_arunachal pradesh",
+            "lower siang_arunachal pradesh",
+            "siang_arunachal pradesh",
+            "unknown_assam",
+            "upper siang_arunachal pradesh"
+        ]
+    },
+    "east singhbhum_jharkhand": {
+        "id": 273,
+        "neighbors": [
+            "jhargram_west bengal",
+            "mayurbhanj_odisha",
+            "purulia_west bengal",
+            "saraikela-kharsawan_jharkhand"
+        ]
+    },
+    "ernakulam_kerala": {
+        "id": 274,
+        "neighbors": [
+            "alappuzha_kerala",
+            "coimbatore_tamil nadu",
+            "idukki_kerala",
+            "kottayam_kerala",
+            "thrissur_kerala"
+        ]
+    },
+    "erode_tamil nadu": {
+        "id": 275,
+        "neighbors": [
+            "chamarajanagara_karnataka",
+            "coimbatore_tamil nadu",
+            "dharmapuri_tamil nadu",
+            "karur_tamil nadu",
+            "namakkal_tamil nadu",
+            "nilgiris_tamil nadu",
+            "salem_tamil nadu",
+            "tiruppur_tamil nadu"
+        ]
+    },
+    "etah_uttar pradesh": {
+        "id": 276,
+        "neighbors": [
+            "agra_uttar pradesh",
+            "farrukhabad_uttar pradesh",
+            "firozabad_uttar pradesh",
+            "hathras_uttar pradesh",
+            "kasganj_uttar pradesh",
+            "mainpuri_uttar pradesh"
+        ]
+    },
+    "etawah_uttar pradesh": {
+        "id": 277,
+        "neighbors": [
+            "agra_uttar pradesh",
+            "auraiya_uttar pradesh",
+            "bhind_madhya pradesh",
+            "firozabad_uttar pradesh",
+            "jalaun_uttar pradesh",
+            "kannauj_uttar pradesh",
+            "mainpuri_uttar pradesh"
+        ]
+    },
+    "faridabad_haryana": {
+        "id": 278,
+        "neighbors": [
+            "delhi_delhi",
+            "gautam buddha nagar_uttar pradesh",
+            "gurugram_haryana",
+            "palwal_haryana"
+        ]
+    },
+    "faridkot_punjab": {
+        "id": 279,
+        "neighbors": [
+            "bathinda_punjab",
+            "ferozepur_punjab",
+            "moga_punjab",
+            "sri muktsar sahib_punjab"
+        ]
+    },
+    "farrukhabad_uttar pradesh": {
+        "id": 280,
+        "neighbors": [
+            "budaun_uttar pradesh",
+            "etah_uttar pradesh",
+            "hardoi_uttar pradesh",
+            "kannauj_uttar pradesh",
+            "kasganj_uttar pradesh",
+            "mainpuri_uttar pradesh",
+            "shahjahanpur_uttar pradesh"
+        ]
+    },
+    "fatehabad_haryana": {
+        "id": 281,
+        "neighbors": [
+            "hanumangarh_rajasthan",
+            "hisar_haryana",
+            "jind_haryana",
+            "mansa_punjab",
+            "sangrur_punjab",
+            "sirsa_haryana"
+        ]
+    },
+    "fatehgarh sahib_punjab": {
+        "id": 282,
+        "neighbors": [
+            "ludhiana_punjab",
+            "patiala_punjab",
+            "rupnagar_punjab",
+            "s.a.s. nagar_punjab",
+            "sangrur_punjab"
+        ]
+    },
+    "fatehpur_uttar pradesh": {
+        "id": 283,
+        "neighbors": [
+            "banda_uttar pradesh",
+            "chitrakoot_uttar pradesh",
+            "hamirpur_uttar pradesh",
+            "kanpur nagar_uttar pradesh",
+            "kaushambi_uttar pradesh",
+            "pratapgarh_uttar pradesh",
+            "rae bareli_uttar pradesh",
+            "unnao_uttar pradesh"
+        ]
+    },
+    "fazilka_punjab": {
+        "id": 284,
+        "neighbors": [
+            "ferozepur_punjab",
+            "ganganagar_rajasthan",
+            "hanumangarh_rajasthan",
+            "sri muktsar sahib_punjab"
+        ]
+    },
+    "ferozepur_punjab": {
+        "id": 285,
+        "neighbors": [
+            "faridkot_punjab",
+            "fazilka_punjab",
+            "jalandhar_punjab",
+            "kapurthala_punjab",
+            "moga_punjab",
+            "sri muktsar sahib_punjab",
+            "tarn taran_punjab"
+        ]
+    },
+    "firozabad_uttar pradesh": {
+        "id": 286,
+        "neighbors": [
+            "agra_uttar pradesh",
+            "etah_uttar pradesh",
+            "etawah_uttar pradesh",
+            "mainpuri_uttar pradesh"
+        ]
+    },
+    "gadag_karnataka": {
+        "id": 287,
+        "neighbors": [
+            "bagalkote_karnataka",
+            "ballari_karnataka",
+            "belagavi_karnataka",
+            "dharwad_karnataka",
+            "haveri_karnataka",
+            "koppal_karnataka"
+        ]
+    },
+    "gadchiroli_maharashtra": {
+        "id": 288,
+        "neighbors": [
+            "bhandara_maharashtra",
+            "bijapur_chhattisgarh",
+            "chandrapur_maharashtra",
+            "gondia_maharashtra",
+            "narayanpur_chhattisgarh",
+            "rajnandgaon_chhattisgarh",
+            "unknown_telangana",
+            "uttar bastar kanker_chhattisgarh"
+        ]
+    },
+    "gajapati_odisha": {
+        "id": 289,
+        "neighbors": [
+            "ganjam_odisha",
+            "kandhamal_odisha",
+            "rayagada_odisha",
+            "srikakulam_andhra pradesh"
+        ]
+    },
+    "ganderbal_jammu and kashmir": {
+        "id": 290,
+        "neighbors": [
+            "anantnag_jammu and kashmir",
+            "bandipora_jammu and kashmir",
+            "kargil_ladakh",
+            "srinagar_jammu and kashmir"
+        ]
+    },
+    "gandhinagar_gujarat": {
+        "id": 291,
+        "neighbors": [
+            "ahmedabad_gujarat",
+            "aravalli_gujarat",
+            "kheda_gujarat",
+            "mehsana_gujarat",
+            "sabarkantha_gujarat"
+        ]
+    },
+    "ganganagar_rajasthan": {
+        "id": 292,
+        "neighbors": [
+            "bikaner_rajasthan",
+            "fazilka_punjab",
+            "hanumangarh_rajasthan"
+        ]
+    },
+    "ganjam_odisha": {
+        "id": 293,
+        "neighbors": [
+            "gajapati_odisha",
+            "kandhamal_odisha",
+            "khordha_odisha",
+            "nayagarh_odisha",
+            "puri_odisha",
+            "srikakulam_andhra pradesh"
+        ]
+    },
+    "garhwa_jharkhand": {
+        "id": 294,
+        "neighbors": [
+            "balrampur_chhattisgarh",
+            "latehar_jharkhand",
+            "palamu_jharkhand",
+            "rohtas_bihar",
+            "sonbhadra_uttar pradesh"
+        ]
+    },
+    "gariaband_chhattisgarh": {
+        "id": 295,
+        "neighbors": [
+            "dhamtari_chhattisgarh",
+            "kalahandi_odisha",
+            "mahasamund_chhattisgarh",
+            "nabarangapur_odisha",
+            "nuapada_odisha",
+            "raipur_chhattisgarh"
+        ]
+    },
+    "gautam buddha nagar_uttar pradesh": {
+        "id": 296,
+        "neighbors": [
+            "aligarh_uttar pradesh",
+            "bulandshahr_uttar pradesh",
+            "delhi_delhi",
+            "faridabad_haryana",
+            "ghaziabad_uttar pradesh",
+            "hapur_uttar pradesh",
+            "palwal_haryana"
+        ]
+    },
+    "gaya_bihar": {
+        "id": 297,
+        "neighbors": [
+            "arwal_bihar",
+            "aurangabad_bihar",
+            "chatra_jharkhand",
+            "hazaribagh_jharkhand",
+            "jehanabad_bihar",
+            "koderma_jharkhand",
+            "nalanda_bihar",
+            "nawada_bihar",
+            "palamu_jharkhand"
+        ]
+    },
+    "ghaziabad_uttar pradesh": {
+        "id": 298,
+        "neighbors": [
+            "baghpat_uttar pradesh",
+            "delhi_delhi",
+            "gautam buddha nagar_uttar pradesh",
+            "hapur_uttar pradesh",
+            "meerut_uttar pradesh"
+        ]
+    },
+    "ghazipur_uttar pradesh": {
+        "id": 299,
+        "neighbors": [
+            "azamgarh_uttar pradesh",
+            "ballia_uttar pradesh",
+            "buxar_bihar",
+            "chandauli_uttar pradesh",
+            "jaunpur_uttar pradesh",
+            "kaimur_bihar",
+            "mau_uttar pradesh",
+            "varanasi_uttar pradesh"
+        ]
+    },
+    "gir somnath_gujarat": {
+        "id": 300,
+        "neighbors": [
+            "amreli_gujarat",
+            "diu_dadra and nagar haveli and daman and diu",
+            "junagadh_gujarat"
+        ]
+    },
+    "giridih_jharkhand": {
+        "id": 301,
+        "neighbors": [
+            "bokaro_jharkhand",
+            "deoghar_jharkhand",
+            "dhanbad_jharkhand",
+            "hazaribagh_jharkhand",
+            "jamtara_jharkhand",
+            "jamui_bihar",
+            "koderma_jharkhand",
+            "nawada_bihar"
+        ]
+    },
+    "godda_jharkhand": {
+        "id": 302,
+        "neighbors": [
+            "banka_bihar",
+            "bhagalpur_bihar",
+            "dumka_jharkhand",
+            "pakur_jharkhand",
+            "sahibganj_jharkhand"
+        ]
+    },
+    "gomati_tripura": {
+        "id": 303,
+        "neighbors": [
+            "dhalai_tripura",
+            "khowai_tripura",
+            "sipahijala_tripura",
+            "south tripura_tripura"
+        ]
+    },
+    "gonda_uttar pradesh": {
+        "id": 304,
+        "neighbors": [
+            "ayodhya_uttar pradesh",
+            "bahraich_uttar pradesh",
+            "balrampur_uttar pradesh",
+            "barabanki_uttar pradesh",
+            "basti_uttar pradesh",
+            "shrawasti_uttar pradesh",
+            "siddharthnagar_uttar pradesh"
+        ]
+    },
+    "gondia_maharashtra": {
+        "id": 305,
+        "neighbors": [
+            "balaghat_madhya pradesh",
+            "bhandara_maharashtra",
+            "gadchiroli_maharashtra",
+            "rajnandgaon_chhattisgarh"
+        ]
+    },
+    "gopalganj_bihar": {
+        "id": 306,
+        "neighbors": [
+            "deoria_uttar pradesh",
+            "east champaran_bihar",
+            "kushinagar_uttar pradesh",
+            "muzaffarpur_bihar",
+            "saran_bihar",
+            "siwan_bihar",
+            "west champaran_bihar"
+        ]
+    },
+    "gorakhpur_uttar pradesh": {
+        "id": 307,
+        "neighbors": [
+            "ambedkar nagar_uttar pradesh",
+            "azamgarh_uttar pradesh",
+            "deoria_uttar pradesh",
+            "kushinagar_uttar pradesh",
+            "maharajganj_uttar pradesh",
+            "mau_uttar pradesh",
+            "sant kabir nagar_uttar pradesh",
+            "siddharthnagar_uttar pradesh"
+        ]
+    },
+    "gumla_jharkhand": {
+        "id": 308,
+        "neighbors": [
+            "balrampur_chhattisgarh",
+            "jashpur_chhattisgarh",
+            "khunti_jharkhand",
+            "latehar_jharkhand",
+            "lohardaga_jharkhand",
+            "ranchi_jharkhand",
+            "simdega_jharkhand"
+        ]
+    },
+    "guna_madhya pradesh": {
+        "id": 309,
+        "neighbors": [
+            "ashoknagar_madhya pradesh",
+            "baran_rajasthan",
+            "bhopal_madhya pradesh",
+            "jhalawar_rajasthan",
+            "rajgarh_madhya pradesh",
+            "shivpuri_madhya pradesh",
+            "vidisha_madhya pradesh"
+        ]
+    },
+    "guntur_andhra pradesh": {
+        "id": 310,
+        "neighbors": [
+            "krishna_andhra pradesh",
+            "prakasam_andhra pradesh",
+            "unknown_telangana"
+        ]
+    },
+    "gurdaspur_punjab": {
+        "id": 311,
+        "neighbors": [
+            "amritsar_punjab",
+            "hoshiarpur_punjab",
+            "kangra_himachal pradesh",
+            "kapurthala_punjab",
+            "pathankot_punjab"
+        ]
+    },
+    "gurugram_haryana": {
+        "id": 312,
+        "neighbors": [
+            "delhi_delhi",
+            "faridabad_haryana",
+            "jhajjar_haryana",
+            "nuh_haryana",
+            "palwal_haryana",
+            "rewari_haryana"
+        ]
+    },
+    "gwalior_madhya pradesh": {
+        "id": 313,
+        "neighbors": [
+            "bhind_madhya pradesh",
+            "datia_madhya pradesh",
+            "morena_madhya pradesh",
+            "shivpuri_madhya pradesh"
+        ]
+    },
+    "hamirpur_himachal pradesh": {
+        "id": 314,
+        "neighbors": [
+            "bilaspur_himachal pradesh",
+            "kangra_himachal pradesh",
+            "mandi_himachal pradesh",
+            "una_himachal pradesh"
+        ]
+    },
+    "hamirpur_uttar pradesh": {
+        "id": 315,
+        "neighbors": [
+            "banda_uttar pradesh",
+            "fatehpur_uttar pradesh",
+            "jalaun_uttar pradesh",
+            "jhansi_uttar pradesh",
+            "kanpur dehat_uttar pradesh",
+            "kanpur nagar_uttar pradesh",
+            "mahoba_uttar pradesh"
+        ]
+    },
+    "hanumangarh_rajasthan": {
+        "id": 316,
+        "neighbors": [
+            "bhiwani_haryana",
+            "bikaner_rajasthan",
+            "churu_rajasthan",
+            "fatehabad_haryana",
+            "fazilka_punjab",
+            "ganganagar_rajasthan",
+            "hisar_haryana",
+            "sirsa_haryana",
+            "sri muktsar sahib_punjab"
+        ]
+    },
+    "hapur_uttar pradesh": {
+        "id": 317,
+        "neighbors": [
+            "amroha_uttar pradesh",
+            "bulandshahr_uttar pradesh",
+            "gautam buddha nagar_uttar pradesh",
+            "ghaziabad_uttar pradesh",
+            "meerut_uttar pradesh"
+        ]
+    },
+    "harda_madhya pradesh": {
+        "id": 318,
+        "neighbors": [
+            "betul_madhya pradesh",
+            "dewas_madhya pradesh",
+            "hoshangabad_madhya pradesh",
+            "khandwa_madhya pradesh",
+            "sehore_madhya pradesh"
+        ]
+    },
+    "hardoi_uttar pradesh": {
+        "id": 319,
+        "neighbors": [
+            "farrukhabad_uttar pradesh",
+            "kannauj_uttar pradesh",
+            "kanpur nagar_uttar pradesh",
+            "lakhimpur kheri_uttar pradesh",
+            "lucknow_uttar pradesh",
+            "shahjahanpur_uttar pradesh",
+            "sitapur_uttar pradesh",
+            "unnao_uttar pradesh"
+        ]
+    },
+    "haridwar_uttarakhand": {
+        "id": 320,
+        "neighbors": [
+            "bijnor_uttar pradesh",
+            "dehradun_uttarakhand",
+            "muzaffarnagar_uttar pradesh",
+            "pauri garhwal_uttarakhand",
+            "saharanpur_uttar pradesh"
+        ]
+    },
+    "hassan_karnataka": {
+        "id": 321,
+        "neighbors": [
+            "chikkamagaluru_karnataka",
+            "dakshina kannada_karnataka",
+            "kodagu_karnataka",
+            "mandya_karnataka",
+            "mysuru_karnataka",
+            "tumakuru_karnataka"
+        ]
+    },
+    "hathras_uttar pradesh": {
+        "id": 322,
+        "neighbors": [
+            "agra_uttar pradesh",
+            "aligarh_uttar pradesh",
+            "etah_uttar pradesh",
+            "kasganj_uttar pradesh",
+            "mathura_uttar pradesh"
+        ]
+    },
+    "haveri_karnataka": {
+        "id": 323,
+        "neighbors": [
+            "ballari_karnataka",
+            "davanagere_karnataka",
+            "dharwad_karnataka",
+            "gadag_karnataka",
+            "shivamogga_karnataka",
+            "uttara kannada_karnataka"
+        ]
+    },
+    "hazaribagh_jharkhand": {
+        "id": 324,
+        "neighbors": [
+            "bokaro_jharkhand",
+            "chatra_jharkhand",
+            "gaya_bihar",
+            "giridih_jharkhand",
+            "koderma_jharkhand",
+            "ramgarh_jharkhand",
+            "ranchi_jharkhand"
+        ]
+    },
+    "hingoli_maharashtra": {
+        "id": 325,
+        "neighbors": [
+            "nanded_maharashtra",
+            "parbhani_maharashtra",
+            "washim_maharashtra",
+            "yavatmal_maharashtra"
+        ]
+    },
+    "hisar_haryana": {
+        "id": 326,
+        "neighbors": [
+            "bhiwani_haryana",
+            "fatehabad_haryana",
+            "hanumangarh_rajasthan",
+            "jind_haryana",
+            "rohtak_haryana"
+        ]
+    },
+    "hooghly_west bengal": {
+        "id": 327,
+        "neighbors": [
+            "bankura_west bengal",
+            "howrah_west bengal",
+            "nadia_west bengal",
+            "north 24 parganas_west bengal",
+            "paschim medinipur_west bengal",
+            "purba bardhaman_west bengal"
+        ]
+    },
+    "hoshangabad_madhya pradesh": {
+        "id": 328,
+        "neighbors": [
+            "betul_madhya pradesh",
+            "chhindwara_madhya pradesh",
+            "harda_madhya pradesh",
+            "narsinghpur_madhya pradesh",
+            "raisen_madhya pradesh",
+            "sehore_madhya pradesh"
+        ]
+    },
+    "hoshiarpur_punjab": {
+        "id": 329,
+        "neighbors": [
+            "gurdaspur_punjab",
+            "jalandhar_punjab",
+            "kangra_himachal pradesh",
+            "kapurthala_punjab",
+            "rupnagar_punjab",
+            "shahid bhagat singh nagar_punjab",
+            "una_himachal pradesh"
+        ]
+    },
+    "howrah_west bengal": {
+        "id": 330,
+        "neighbors": [
+            "hooghly_west bengal",
+            "kolkata_west bengal",
+            "north 24 parganas_west bengal",
+            "paschim medinipur_west bengal",
+            "purba medinipur_west bengal",
+            "south 24 parganas_west bengal"
+        ]
+    },
+    "idukki_kerala": {
+        "id": 331,
+        "neighbors": [
+            "coimbatore_tamil nadu",
+            "dindigul_tamil nadu",
+            "ernakulam_kerala",
+            "kottayam_kerala",
+            "pathanamthitta_kerala",
+            "theni_tamil nadu",
+            "tirunelveli_tamil nadu",
+            "tiruppur_tamil nadu",
+            "virudhunagar_tamil nadu"
+        ]
+    },
+    "indore_madhya pradesh": {
+        "id": 332,
+        "neighbors": [
+            "dewas_madhya pradesh",
+            "dhar_madhya pradesh",
+            "khargone_madhya pradesh",
+            "ujjain_madhya pradesh"
+        ]
+    },
+    "jabalpur_madhya pradesh": {
+        "id": 333,
+        "neighbors": [
+            "damoh_madhya pradesh",
+            "dindori_madhya pradesh",
+            "katni_madhya pradesh",
+            "mandla_madhya pradesh",
+            "narsinghpur_madhya pradesh",
+            "seoni_madhya pradesh",
+            "umaria_madhya pradesh"
+        ]
+    },
+    "jagatsinghpur_odisha": {
+        "id": 334,
+        "neighbors": [
+            "cuttack_odisha",
+            "kendrapara_odisha",
+            "puri_odisha"
+        ]
+    },
+    "jaipur_rajasthan": {
+        "id": 335,
+        "neighbors": [
+            "ajmer_rajasthan",
+            "alwar_rajasthan",
+            "dausa_rajasthan",
+            "mahendragarh_haryana",
+            "nagaur_rajasthan",
+            "sikar_rajasthan",
+            "tonk_rajasthan"
+        ]
+    },
+    "jaisalmer_rajasthan": {
+        "id": 336,
+        "neighbors": [
+            "barmer_rajasthan",
+            "bikaner_rajasthan",
+            "jodhpur_rajasthan"
+        ]
+    },
+    "jajpur_odisha": {
+        "id": 337,
+        "neighbors": [
+            "bhadrak_odisha",
+            "cuttack_odisha",
+            "dhenkanal_odisha",
+            "kendrapara_odisha",
+            "kendujhar_odisha"
+        ]
+    },
+    "jalandhar_punjab": {
+        "id": 338,
+        "neighbors": [
+            "ferozepur_punjab",
+            "hoshiarpur_punjab",
+            "kapurthala_punjab",
+            "ludhiana_punjab",
+            "moga_punjab",
+            "shahid bhagat singh nagar_punjab"
+        ]
+    },
+    "jalaun_uttar pradesh": {
+        "id": 339,
+        "neighbors": [
+            "auraiya_uttar pradesh",
+            "bhind_madhya pradesh",
+            "etawah_uttar pradesh",
+            "hamirpur_uttar pradesh",
+            "jhansi_uttar pradesh",
+            "kanpur dehat_uttar pradesh"
+        ]
+    },
+    "jalgaon_maharashtra": {
+        "id": 340,
+        "neighbors": [
+            "aurangabad_maharashtra",
+            "barwani_madhya pradesh",
+            "buldhana_maharashtra",
+            "burhanpur_madhya pradesh",
+            "dhule_maharashtra",
+            "jalna_maharashtra",
+            "khargone_madhya pradesh",
+            "nashik_maharashtra"
+        ]
+    },
+    "jalna_maharashtra": {
+        "id": 341,
+        "neighbors": [
+            "aurangabad_maharashtra",
+            "beed_maharashtra",
+            "buldhana_maharashtra",
+            "jalgaon_maharashtra",
+            "parbhani_maharashtra"
+        ]
+    },
+    "jalore_rajasthan": {
+        "id": 342,
+        "neighbors": [
+            "banaskantha_gujarat",
+            "barmer_rajasthan",
+            "kutch_gujarat",
+            "pali_rajasthan",
+            "sirohi_rajasthan"
+        ]
+    },
+    "jalpaiguri_west bengal": {
+        "id": 343,
+        "neighbors": [
+            "alipurduar_west bengal",
+            "cooch behar_west bengal",
+            "darjeeling_west bengal",
+            "kalimpong_west bengal"
+        ]
+    },
+    "jammu_jammu and kashmir": {
+        "id": 344,
+        "neighbors": [
+            "rajouri_jammu and kashmir",
+            "reasi_jammu and kashmir",
+            "samba_jammu and kashmir",
+            "udhampur_jammu and kashmir"
+        ]
+    },
+    "jamnagar_gujarat": {
+        "id": 345,
+        "neighbors": [
+            "devbhumi dwarka_gujarat",
+            "morbi_gujarat",
+            "porbandar_gujarat",
+            "rajkot_gujarat"
+        ]
+    },
+    "jamtara_jharkhand": {
+        "id": 346,
+        "neighbors": [
+            "birbhum_west bengal",
+            "deoghar_jharkhand",
+            "dhanbad_jharkhand",
+            "dumka_jharkhand",
+            "giridih_jharkhand",
+            "paschim bardhaman_west bengal"
+        ]
+    },
+    "jamui_bihar": {
+        "id": 347,
+        "neighbors": [
+            "banka_bihar",
+            "deoghar_jharkhand",
+            "giridih_jharkhand",
+            "lakhisarai_bihar",
+            "munger_bihar",
+            "nawada_bihar",
+            "sheikhpura_bihar"
+        ]
+    },
+    "janjgir champa_chhattisgarh": {
+        "id": 348,
+        "neighbors": [
+            "baloda bazar_chhattisgarh",
+            "bilaspur_chhattisgarh",
+            "korba_chhattisgarh",
+            "raigarh_chhattisgarh"
+        ]
+    },
+    "jashpur_chhattisgarh": {
+        "id": 349,
+        "neighbors": [
+            "balrampur_chhattisgarh",
+            "gumla_jharkhand",
+            "raigarh_chhattisgarh",
+            "simdega_jharkhand",
+            "sundargarh_odisha",
+            "surguja_chhattisgarh"
+        ]
+    },
+    "jaunpur_uttar pradesh": {
+        "id": 350,
+        "neighbors": [
+            "azamgarh_uttar pradesh",
+            "bhadohi_uttar pradesh",
+            "ghazipur_uttar pradesh",
+            "pratapgarh_uttar pradesh",
+            "prayagraj_uttar pradesh",
+            "sultanpur_uttar pradesh",
+            "varanasi_uttar pradesh"
+        ]
+    },
+    "jehanabad_bihar": {
+        "id": 351,
+        "neighbors": [
+            "arwal_bihar",
+            "gaya_bihar",
+            "nalanda_bihar",
+            "patna_bihar"
+        ]
+    },
+    "jhabua_madhya pradesh": {
+        "id": 352,
+        "neighbors": [
+            "alirajpur_madhya pradesh",
+            "banswara_rajasthan",
+            "dahod_gujarat",
+            "dhar_madhya pradesh",
+            "ratlam_madhya pradesh"
+        ]
+    },
+    "jhajjar_haryana": {
+        "id": 353,
+        "neighbors": [
+            "charkhi dadri_haryana",
+            "delhi_delhi",
+            "gurugram_haryana",
+            "mahendragarh_haryana",
+            "rewari_haryana",
+            "rohtak_haryana",
+            "sonipat_haryana"
+        ]
+    },
+    "jhalawar_rajasthan": {
+        "id": 354,
+        "neighbors": [
+            "agar malwa_madhya pradesh",
+            "baran_rajasthan",
+            "guna_madhya pradesh",
+            "kota_rajasthan",
+            "mandsaur_madhya pradesh",
+            "rajgarh_madhya pradesh",
+            "ratlam_madhya pradesh"
+        ]
+    },
+    "jhansi_uttar pradesh": {
+        "id": 355,
+        "neighbors": [
+            "bhind_madhya pradesh",
+            "chhatarpur_madhya pradesh",
+            "datia_madhya pradesh",
+            "hamirpur_uttar pradesh",
+            "jalaun_uttar pradesh",
+            "lalitpur_uttar pradesh",
+            "mahoba_uttar pradesh",
+            "niwari_madhya pradesh",
+            "shivpuri_madhya pradesh",
+            "tikamgarh_madhya pradesh"
+        ]
+    },
+    "jhargram_west bengal": {
+        "id": 356,
+        "neighbors": [
+            "balasore_odisha",
+            "bankura_west bengal",
+            "east singhbhum_jharkhand",
+            "mayurbhanj_odisha",
+            "paschim medinipur_west bengal",
+            "purulia_west bengal"
+        ]
+    },
+    "jharsuguda_odisha": {
+        "id": 357,
+        "neighbors": [
+            "bargarh_odisha",
+            "raigarh_chhattisgarh",
+            "sambalpur_odisha",
+            "sundargarh_odisha"
+        ]
+    },
+    "jhunjhunu_rajasthan": {
+        "id": 358,
+        "neighbors": [
+            "bhiwani_haryana",
+            "churu_rajasthan",
+            "mahendragarh_haryana",
+            "sikar_rajasthan"
+        ]
+    },
+    "jind_haryana": {
+        "id": 359,
+        "neighbors": [
+            "fatehabad_haryana",
+            "hisar_haryana",
+            "kaithal_haryana",
+            "karnal_haryana",
+            "panipat_haryana",
+            "patiala_punjab",
+            "rohtak_haryana",
+            "sangrur_punjab",
+            "sonipat_haryana"
+        ]
+    },
+    "jodhpur_rajasthan": {
+        "id": 360,
+        "neighbors": [
+            "barmer_rajasthan",
+            "bikaner_rajasthan",
+            "jaisalmer_rajasthan",
+            "nagaur_rajasthan",
+            "pali_rajasthan"
+        ]
+    },
+    "junagadh_gujarat": {
+        "id": 361,
+        "neighbors": [
+            "amreli_gujarat",
+            "gir somnath_gujarat",
+            "porbandar_gujarat",
+            "rajkot_gujarat"
+        ]
+    },
+    "kabeerdham_chhattisgarh": {
+        "id": 362,
+        "neighbors": [
+            "balaghat_madhya pradesh",
+            "bametara_chhattisgarh",
+            "dindori_madhya pradesh",
+            "mandla_madhya pradesh",
+            "mungeli_chhattisgarh",
+            "rajnandgaon_chhattisgarh"
+        ]
+    },
+    "kaimur_bihar": {
+        "id": 363,
+        "neighbors": [
+            "buxar_bihar",
+            "chandauli_uttar pradesh",
+            "ghazipur_uttar pradesh",
+            "rohtas_bihar",
+            "sonbhadra_uttar pradesh"
+        ]
+    },
+    "kaithal_haryana": {
+        "id": 364,
+        "neighbors": [
+            "jind_haryana",
+            "karnal_haryana",
+            "kurukshetra_haryana",
+            "patiala_punjab"
+        ]
+    },
+    "kalaburagi_karnataka": {
+        "id": 365,
+        "neighbors": [
+            "bidar_karnataka",
+            "osmanabad_maharashtra",
+            "solapur_maharashtra",
+            "unknown_telangana",
+            "vijayapura_karnataka",
+            "yadgir_karnataka"
+        ]
+    },
+    "kalahandi_odisha": {
+        "id": 366,
+        "neighbors": [
+            "balangir_odisha",
+            "gariaband_chhattisgarh",
+            "kandhamal_odisha",
+            "koraput_odisha",
+            "nabarangapur_odisha",
+            "nuapada_odisha",
+            "rayagada_odisha"
+        ]
+    },
+    "kalimpong_west bengal": {
+        "id": 367,
+        "neighbors": [
+            "darjeeling_west bengal",
+            "jalpaiguri_west bengal",
+            "unknown_sikkim"
+        ]
+    },
+    "kallakurichi_tamil nadu": {
+        "id": 368,
+        "neighbors": [
+            "cuddalore_tamil nadu",
+            "dharmapuri_tamil nadu",
+            "perambalur_tamil nadu",
+            "salem_tamil nadu",
+            "tiruvannamalai_tamil nadu",
+            "viluppuram_tamil nadu"
+        ]
+    },
+    "kamle_arunachal pradesh": {
+        "id": 369,
+        "neighbors": [
+            "kra daadi_arunachal pradesh",
+            "lower siang_arunachal pradesh",
+            "lower subansiri_arunachal pradesh",
+            "papum pare_arunachal pradesh",
+            "unknown_assam",
+            "upper subansiri_arunachal pradesh"
+        ]
+    },
+    "kancheepuram_tamil nadu": {
+        "id": 370,
+        "neighbors": [
+            "chennai_tamil nadu",
+            "thiruvallur_tamil nadu",
+            "tiruvannamalai_tamil nadu",
+            "vellore_tamil nadu",
+            "viluppuram_tamil nadu"
+        ]
+    },
+    "kandhamal_odisha": {
+        "id": 371,
+        "neighbors": [
+            "balangir_odisha",
+            "boudh_odisha",
+            "gajapati_odisha",
+            "ganjam_odisha",
+            "kalahandi_odisha",
+            "nayagarh_odisha",
+            "rayagada_odisha"
+        ]
+    },
+    "kangra_himachal pradesh": {
+        "id": 372,
+        "neighbors": [
+            "chamba_himachal pradesh",
+            "gurdaspur_punjab",
+            "hamirpur_himachal pradesh",
+            "hoshiarpur_punjab",
+            "kullu_himachal pradesh",
+            "lahaul and spiti_himachal pradesh",
+            "mandi_himachal pradesh",
+            "pathankot_punjab",
+            "una_himachal pradesh"
+        ]
+    },
+    "kannauj_uttar pradesh": {
+        "id": 373,
+        "neighbors": [
+            "auraiya_uttar pradesh",
+            "etawah_uttar pradesh",
+            "farrukhabad_uttar pradesh",
+            "hardoi_uttar pradesh",
+            "kanpur dehat_uttar pradesh",
+            "kanpur nagar_uttar pradesh",
+            "mainpuri_uttar pradesh"
+        ]
+    },
+    "kannur_kerala": {
+        "id": 374,
+        "neighbors": [
+            "kasaragod_kerala",
+            "kodagu_karnataka",
+            "kozhikode_kerala",
+            "mahe_puducherry",
+            "wayanad_kerala"
+        ]
+    },
+    "kanpur dehat_uttar pradesh": {
+        "id": 375,
+        "neighbors": [
+            "auraiya_uttar pradesh",
+            "hamirpur_uttar pradesh",
+            "jalaun_uttar pradesh",
+            "kannauj_uttar pradesh",
+            "kanpur nagar_uttar pradesh"
+        ]
+    },
+    "kanpur nagar_uttar pradesh": {
+        "id": 376,
+        "neighbors": [
+            "fatehpur_uttar pradesh",
+            "hamirpur_uttar pradesh",
+            "hardoi_uttar pradesh",
+            "kannauj_uttar pradesh",
+            "kanpur dehat_uttar pradesh",
+            "unnao_uttar pradesh"
+        ]
+    },
+    "kanyakumari_tamil nadu": {
+        "id": 377,
+        "neighbors": [
+            "thiruvananthapuram_kerala",
+            "tirunelveli_tamil nadu"
+        ]
+    },
+    "kapurthala_punjab": {
+        "id": 378,
+        "neighbors": [
+            "amritsar_punjab",
+            "ferozepur_punjab",
+            "gurdaspur_punjab",
+            "hoshiarpur_punjab",
+            "jalandhar_punjab",
+            "shahid bhagat singh nagar_punjab",
+            "tarn taran_punjab"
+        ]
+    },
+    "karaikal_puducherry": {
+        "id": 379,
+        "neighbors": [
+            "nagapattinam_tamil nadu",
+            "thiruvarur_tamil nadu"
+        ]
+    },
+    "karauli_rajasthan": {
+        "id": 380,
+        "neighbors": [
+            "bharatpur_rajasthan",
+            "dausa_rajasthan",
+            "dholpur_rajasthan",
+            "morena_madhya pradesh",
+            "sawai madhopur_rajasthan",
+            "sheopur_madhya pradesh"
+        ]
+    },
+    "kargil_ladakh": {
+        "id": 381,
+        "neighbors": [
+            "anantnag_jammu and kashmir",
+            "bandipora_jammu and kashmir",
+            "ganderbal_jammu and kashmir",
+            "kishtwar_jammu and kashmir",
+            "lahaul and spiti_himachal pradesh",
+            "leh_ladakh"
+        ]
+    },
+    "karnal_haryana": {
+        "id": 382,
+        "neighbors": [
+            "jind_haryana",
+            "kaithal_haryana",
+            "kurukshetra_haryana",
+            "panipat_haryana",
+            "saharanpur_uttar pradesh",
+            "shamli_uttar pradesh",
+            "yamunanagar_haryana"
+        ]
+    },
+    "karur_tamil nadu": {
+        "id": 383,
+        "neighbors": [
+            "dindigul_tamil nadu",
+            "erode_tamil nadu",
+            "namakkal_tamil nadu",
+            "tiruchirappalli_tamil nadu",
+            "tiruppur_tamil nadu"
+        ]
+    },
+    "kasaragod_kerala": {
+        "id": 384,
+        "neighbors": [
+            "dakshina kannada_karnataka",
+            "kannur_kerala",
+            "kodagu_karnataka"
+        ]
+    },
+    "kasganj_uttar pradesh": {
+        "id": 385,
+        "neighbors": [
+            "aligarh_uttar pradesh",
+            "budaun_uttar pradesh",
+            "etah_uttar pradesh",
+            "farrukhabad_uttar pradesh",
+            "hathras_uttar pradesh"
+        ]
+    },
+    "kathua_jammu and kashmir": {
+        "id": 386,
+        "neighbors": [
+            "chamba_himachal pradesh",
+            "doda_jammu and kashmir",
+            "pathankot_punjab",
+            "samba_jammu and kashmir",
+            "udhampur_jammu and kashmir"
+        ]
+    },
+    "katihar_bihar": {
+        "id": 387,
+        "neighbors": [
+            "bhagalpur_bihar",
+            "malda_west bengal",
+            "purnia_bihar",
+            "sahibganj_jharkhand",
+            "uttar dinajpur_west bengal"
+        ]
+    },
+    "katni_madhya pradesh": {
+        "id": 388,
+        "neighbors": [
+            "damoh_madhya pradesh",
+            "jabalpur_madhya pradesh",
+            "panna_madhya pradesh",
+            "satna_madhya pradesh",
+            "umaria_madhya pradesh"
+        ]
+    },
+    "kaushambi_uttar pradesh": {
+        "id": 389,
+        "neighbors": [
+            "chitrakoot_uttar pradesh",
+            "fatehpur_uttar pradesh",
+            "pratapgarh_uttar pradesh",
+            "prayagraj_uttar pradesh",
+            "rae bareli_uttar pradesh"
+        ]
+    },
+    "kendrapara_odisha": {
+        "id": 390,
+        "neighbors": [
+            "bhadrak_odisha",
+            "cuttack_odisha",
+            "jagatsinghpur_odisha",
+            "jajpur_odisha"
+        ]
+    },
+    "kendujhar_odisha": {
+        "id": 391,
+        "neighbors": [
+            "angul_odisha",
+            "balasore_odisha",
+            "bhadrak_odisha",
+            "dhenkanal_odisha",
+            "jajpur_odisha",
+            "mayurbhanj_odisha",
+            "sundargarh_odisha",
+            "west singhbhum_jharkhand"
+        ]
+    },
+    "khagaria_bihar": {
+        "id": 392,
+        "neighbors": [
+            "begusarai_bihar",
+            "bhagalpur_bihar",
+            "madhepura_bihar",
+            "munger_bihar",
+            "saharsa_bihar",
+            "samastipur_bihar"
+        ]
+    },
+    "khandwa_madhya pradesh": {
+        "id": 393,
+        "neighbors": [
+            "amravati_maharashtra",
+            "betul_madhya pradesh",
+            "burhanpur_madhya pradesh",
+            "dewas_madhya pradesh",
+            "harda_madhya pradesh",
+            "khargone_madhya pradesh"
+        ]
+    },
+    "khargone_madhya pradesh": {
+        "id": 394,
+        "neighbors": [
+            "barwani_madhya pradesh",
+            "burhanpur_madhya pradesh",
+            "dewas_madhya pradesh",
+            "dhar_madhya pradesh",
+            "indore_madhya pradesh",
+            "jalgaon_maharashtra",
+            "khandwa_madhya pradesh"
+        ]
+    },
+    "kheda_gujarat": {
+        "id": 395,
+        "neighbors": [
+            "ahmedabad_gujarat",
+            "anand_gujarat",
+            "aravalli_gujarat",
+            "gandhinagar_gujarat",
+            "mahisagar_gujarat",
+            "panchmahal_gujarat",
+            "vadodara_gujarat"
+        ]
+    },
+    "khordha_odisha": {
+        "id": 396,
+        "neighbors": [
+            "cuttack_odisha",
+            "ganjam_odisha",
+            "nayagarh_odisha",
+            "puri_odisha"
+        ]
+    },
+    "khowai_tripura": {
+        "id": 397,
+        "neighbors": [
+            "dhalai_tripura",
+            "gomati_tripura",
+            "sipahijala_tripura",
+            "west tripura_tripura"
+        ]
+    },
+    "khunti_jharkhand": {
+        "id": 398,
+        "neighbors": [
+            "gumla_jharkhand",
+            "ranchi_jharkhand",
+            "saraikela-kharsawan_jharkhand",
+            "simdega_jharkhand",
+            "west singhbhum_jharkhand"
+        ]
+    },
+    "kinnaur_himachal pradesh": {
+        "id": 399,
+        "neighbors": [
+            "kullu_himachal pradesh",
+            "lahaul and spiti_himachal pradesh",
+            "shimla_himachal pradesh",
+            "uttarkashi_uttarakhand"
+        ]
+    },
+    "kiphire_nagaland": {
+        "id": 400,
+        "neighbors": [
+            "phek_nagaland",
+            "tuensang_nagaland",
+            "zunheboto_nagaland"
+        ]
+    },
+    "kishanganj_bihar": {
+        "id": 401,
+        "neighbors": [
+            "araria_bihar",
+            "darjeeling_west bengal",
+            "purnia_bihar",
+            "uttar dinajpur_west bengal"
+        ]
+    },
+    "kishtwar_jammu and kashmir": {
+        "id": 402,
+        "neighbors": [
+            "anantnag_jammu and kashmir",
+            "chamba_himachal pradesh",
+            "doda_jammu and kashmir",
+            "kargil_ladakh",
+            "lahaul and spiti_himachal pradesh"
+        ]
+    },
+    "kodagu_karnataka": {
+        "id": 403,
+        "neighbors": [
+            "dakshina kannada_karnataka",
+            "hassan_karnataka",
+            "kannur_kerala",
+            "kasaragod_kerala",
+            "mysuru_karnataka",
+            "wayanad_kerala"
+        ]
+    },
+    "koderma_jharkhand": {
+        "id": 404,
+        "neighbors": [
+            "gaya_bihar",
+            "giridih_jharkhand",
+            "hazaribagh_jharkhand",
+            "nawada_bihar"
+        ]
+    },
+    "kohima_nagaland": {
+        "id": 405,
+        "neighbors": [
+            "dimapur_nagaland",
+            "peren_nagaland",
+            "phek_nagaland",
+            "unknown_assam",
+            "unknown_manipur",
+            "wokha_nagaland",
+            "zunheboto_nagaland"
+        ]
+    },
+    "kolar_karnataka": {
+        "id": 406,
+        "neighbors": [
+            "bengaluru rural_karnataka",
+            "chikkaballapura_karnataka",
+            "chittoor_andhra pradesh",
+            "krishnagiri_tamil nadu"
+        ]
+    },
+    "kolasib_mizoram": {
+        "id": 407,
+        "neighbors": [
+            "aizawl_mizoram",
+            "mamit_mizoram",
+            "unknown_assam"
+        ]
+    },
+    "kolhapur_maharashtra": {
+        "id": 408,
+        "neighbors": [
+            "belagavi_karnataka",
+            "ratnagiri_maharashtra",
+            "sangli_maharashtra",
+            "sindhudurg_maharashtra"
+        ]
+    },
+    "kolkata_west bengal": {
+        "id": 409,
+        "neighbors": [
+            "howrah_west bengal",
+            "north 24 parganas_west bengal",
+            "south 24 parganas_west bengal"
+        ]
+    },
+    "kollam_kerala": {
+        "id": 410,
+        "neighbors": [
+            "alappuzha_kerala",
+            "pathanamthitta_kerala",
+            "thiruvananthapuram_kerala",
+            "tirunelveli_tamil nadu"
+        ]
+    },
+    "kondagaon_chhattisgarh": {
+        "id": 411,
+        "neighbors": [
+            "bastar_chhattisgarh",
+            "dakshin bastar dantewada_chhattisgarh",
+            "dhamtari_chhattisgarh",
+            "nabarangapur_odisha",
+            "narayanpur_chhattisgarh",
+            "uttar bastar kanker_chhattisgarh"
+        ]
+    },
+    "koppal_karnataka": {
+        "id": 412,
+        "neighbors": [
+            "bagalkote_karnataka",
+            "ballari_karnataka",
+            "gadag_karnataka",
+            "raichur_karnataka"
+        ]
+    },
+    "koraput_odisha": {
+        "id": 413,
+        "neighbors": [
+            "bastar_chhattisgarh",
+            "kalahandi_odisha",
+            "malkangiri_odisha",
+            "nabarangapur_odisha",
+            "rayagada_odisha",
+            "visakhapatnam_andhra pradesh",
+            "vizianagaram_andhra pradesh"
+        ]
+    },
+    "korba_chhattisgarh": {
+        "id": 414,
+        "neighbors": [
+            "bilaspur_chhattisgarh",
+            "janjgir champa_chhattisgarh",
+            "koriya_chhattisgarh",
+            "raigarh_chhattisgarh",
+            "surajpur_chhattisgarh",
+            "surguja_chhattisgarh"
+        ]
+    },
+    "koriya_chhattisgarh": {
+        "id": 415,
+        "neighbors": [
+            "anuppur_madhya pradesh",
+            "bilaspur_chhattisgarh",
+            "korba_chhattisgarh",
+            "shahdol_madhya pradesh",
+            "sidhi_madhya pradesh",
+            "singrauli_madhya pradesh",
+            "surajpur_chhattisgarh"
+        ]
+    },
+    "kota_rajasthan": {
+        "id": 416,
+        "neighbors": [
+            "baran_rajasthan",
+            "bundi_rajasthan",
+            "chittorgarh_rajasthan",
+            "jhalawar_rajasthan",
+            "mandsaur_madhya pradesh",
+            "sawai madhopur_rajasthan",
+            "sheopur_madhya pradesh"
+        ]
+    },
+    "kottayam_kerala": {
+        "id": 417,
+        "neighbors": [
+            "alappuzha_kerala",
+            "ernakulam_kerala",
+            "idukki_kerala",
+            "pathanamthitta_kerala"
+        ]
+    },
+    "kozhikode_kerala": {
+        "id": 418,
+        "neighbors": [
+            "kannur_kerala",
+            "mahe_puducherry",
+            "malappuram_kerala",
+            "wayanad_kerala"
+        ]
+    },
+    "kra daadi_arunachal pradesh": {
+        "id": 419,
+        "neighbors": [
+            "kamle_arunachal pradesh",
+            "kurung kumey_arunachal pradesh",
+            "lower subansiri_arunachal pradesh",
+            "papum pare_arunachal pradesh",
+            "upper subansiri_arunachal pradesh"
+        ]
+    },
+    "krishna_andhra pradesh": {
+        "id": 420,
+        "neighbors": [
+            "guntur_andhra pradesh",
+            "unknown_telangana",
+            "west godavari_andhra pradesh"
+        ]
+    },
+    "krishnagiri_tamil nadu": {
+        "id": 421,
+        "neighbors": [
+            "bengaluru rural_karnataka",
+            "bengaluru urban_karnataka",
+            "chamarajanagara_karnataka",
+            "chittoor_andhra pradesh",
+            "dharmapuri_tamil nadu",
+            "kolar_karnataka",
+            "ramanagara_karnataka",
+            "tiruvannamalai_tamil nadu",
+            "vellore_tamil nadu"
+        ]
+    },
+    "kulgam_jammu and kashmir": {
+        "id": 422,
+        "neighbors": [
+            "anantnag_jammu and kashmir",
+            "budgam_jammu and kashmir",
+            "punch_jammu and kashmir",
+            "rajouri_jammu and kashmir",
+            "ramban_jammu and kashmir",
+            "reasi_jammu and kashmir",
+            "shopiyan_jammu and kashmir"
+        ]
+    },
+    "kullu_himachal pradesh": {
+        "id": 423,
+        "neighbors": [
+            "kangra_himachal pradesh",
+            "kinnaur_himachal pradesh",
+            "lahaul and spiti_himachal pradesh",
+            "mandi_himachal pradesh",
+            "shimla_himachal pradesh"
+        ]
+    },
+    "kupwara_jammu and kashmir": {
+        "id": 424,
+        "neighbors": [
+            "bandipora_jammu and kashmir",
+            "baramulla_jammu and kashmir"
+        ]
+    },
+    "kurnool_andhra pradesh": {
+        "id": 425,
+        "neighbors": [
+            "anantapur_andhra pradesh",
+            "ballari_karnataka",
+            "prakasam_andhra pradesh",
+            "raichur_karnataka",
+            "unknown_telangana",
+            "y.s.r. kadapa_andhra pradesh"
+        ]
+    },
+    "kurukshetra_haryana": {
+        "id": 426,
+        "neighbors": [
+            "ambala_haryana",
+            "kaithal_haryana",
+            "karnal_haryana",
+            "patiala_punjab",
+            "yamunanagar_haryana"
+        ]
+    },
+    "kurung kumey_arunachal pradesh": {
+        "id": 427,
+        "neighbors": [
+            "east kameng_arunachal pradesh",
+            "kra daadi_arunachal pradesh",
+            "papum pare_arunachal pradesh",
+            "upper subansiri_arunachal pradesh"
+        ]
+    },
+    "kushinagar_uttar pradesh": {
+        "id": 428,
+        "neighbors": [
+            "deoria_uttar pradesh",
+            "gopalganj_bihar",
+            "gorakhpur_uttar pradesh",
+            "maharajganj_uttar pradesh",
+            "west champaran_bihar"
+        ]
+    },
+    "kutch_gujarat": {
+        "id": 429,
+        "neighbors": [
+            "banaskantha_gujarat",
+            "barmer_rajasthan",
+            "jalore_rajasthan",
+            "morbi_gujarat",
+            "patan_gujarat",
+            "surendranagar_gujarat"
+        ]
+    },
+    "lahaul and spiti_himachal pradesh": {
+        "id": 430,
+        "neighbors": [
+            "chamba_himachal pradesh",
+            "kangra_himachal pradesh",
+            "kargil_ladakh",
+            "kinnaur_himachal pradesh",
+            "kishtwar_jammu and kashmir",
+            "kullu_himachal pradesh",
+            "leh_ladakh"
+        ]
+    },
+    "lakhimpur kheri_uttar pradesh": {
+        "id": 431,
+        "neighbors": [
+            "bahraich_uttar pradesh",
+            "hardoi_uttar pradesh",
+            "pilibhit_uttar pradesh",
+            "shahjahanpur_uttar pradesh",
+            "sitapur_uttar pradesh"
+        ]
+    },
+    "lakhisarai_bihar": {
+        "id": 432,
+        "neighbors": [
+            "begusarai_bihar",
+            "jamui_bihar",
+            "munger_bihar",
+            "nalanda_bihar",
+            "patna_bihar",
+            "sheikhpura_bihar"
+        ]
+    },
+    "lalitpur_uttar pradesh": {
+        "id": 433,
+        "neighbors": [
+            "ashoknagar_madhya pradesh",
+            "chhatarpur_madhya pradesh",
+            "datia_madhya pradesh",
+            "jhansi_uttar pradesh",
+            "niwari_madhya pradesh",
+            "sagar_madhya pradesh",
+            "shivpuri_madhya pradesh",
+            "tikamgarh_madhya pradesh"
+        ]
+    },
+    "latehar_jharkhand": {
+        "id": 434,
+        "neighbors": [
+            "balrampur_chhattisgarh",
+            "chatra_jharkhand",
+            "garhwa_jharkhand",
+            "gumla_jharkhand",
+            "lohardaga_jharkhand",
+            "palamu_jharkhand",
+            "ranchi_jharkhand"
+        ]
+    },
+    "latur_maharashtra": {
+        "id": 435,
+        "neighbors": [
+            "beed_maharashtra",
+            "bidar_karnataka",
+            "nanded_maharashtra",
+            "osmanabad_maharashtra",
+            "parbhani_maharashtra"
+        ]
+    },
+    "lawngtlai_mizoram": {
+        "id": 436,
+        "neighbors": [
+            "lunglei_mizoram",
+            "saiha_mizoram"
+        ]
+    },
+    "leh_ladakh": {
+        "id": 437,
+        "neighbors": [
+            "kargil_ladakh",
+            "lahaul and spiti_himachal pradesh"
+        ]
+    },
+    "lepa rada_arunachal pradesh": {
+        "id": 438,
+        "neighbors": [
+            "lower siang_arunachal pradesh",
+            "upper subansiri_arunachal pradesh",
+            "west siang_arunachal pradesh"
+        ]
+    },
+    "lohardaga_jharkhand": {
+        "id": 439,
+        "neighbors": [
+            "gumla_jharkhand",
+            "latehar_jharkhand",
+            "ranchi_jharkhand"
+        ]
+    },
+    "lohit_arunachal pradesh": {
+        "id": 440,
+        "neighbors": [
+            "anjaw_arunachal pradesh",
+            "changlang_arunachal pradesh",
+            "lower dibang valley_arunachal pradesh",
+            "namsai_arunachal pradesh",
+            "unknown_assam"
+        ]
+    },
+    "longding_arunachal pradesh": {
+        "id": 441,
+        "neighbors": [
+            "mon_nagaland",
+            "tirap_arunachal pradesh",
+            "unknown_assam"
+        ]
+    },
+    "longleng_nagaland": {
+        "id": 442,
+        "neighbors": [
+            "mokokchung_nagaland",
+            "mon_nagaland",
+            "tuensang_nagaland",
+            "unknown_assam"
+        ]
+    },
+    "lower dibang valley_arunachal pradesh": {
+        "id": 443,
+        "neighbors": [
+            "east siang_arunachal pradesh",
+            "lohit_arunachal pradesh",
+            "unknown_assam",
+            "upper dibang valley_arunachal pradesh",
+            "upper siang_arunachal pradesh"
+        ]
+    },
+    "lower siang_arunachal pradesh": {
+        "id": 444,
+        "neighbors": [
+            "east siang_arunachal pradesh",
+            "kamle_arunachal pradesh",
+            "lepa rada_arunachal pradesh",
+            "siang_arunachal pradesh",
+            "unknown_assam",
+            "upper subansiri_arunachal pradesh",
+            "west siang_arunachal pradesh"
+        ]
+    },
+    "lower subansiri_arunachal pradesh": {
+        "id": 445,
+        "neighbors": [
+            "kamle_arunachal pradesh",
+            "kra daadi_arunachal pradesh",
+            "papum pare_arunachal pradesh"
+        ]
+    },
+    "lucknow_uttar pradesh": {
+        "id": 446,
+        "neighbors": [
+            "barabanki_uttar pradesh",
+            "hardoi_uttar pradesh",
+            "rae bareli_uttar pradesh",
+            "sitapur_uttar pradesh",
+            "unnao_uttar pradesh"
+        ]
+    },
+    "ludhiana_punjab": {
+        "id": 447,
+        "neighbors": [
+            "barnala_punjab",
+            "fatehgarh sahib_punjab",
+            "jalandhar_punjab",
+            "moga_punjab",
+            "rupnagar_punjab",
+            "sangrur_punjab",
+            "shahid bhagat singh nagar_punjab"
+        ]
+    },
+    "lunglei_mizoram": {
+        "id": 448,
+        "neighbors": [
+            "aizawl_mizoram",
+            "lawngtlai_mizoram",
+            "mamit_mizoram",
+            "serchhip_mizoram"
+        ]
+    },
+    "madhepura_bihar": {
+        "id": 449,
+        "neighbors": [
+            "araria_bihar",
+            "bhagalpur_bihar",
+            "khagaria_bihar",
+            "purnia_bihar",
+            "saharsa_bihar",
+            "supaul_bihar"
+        ]
+    },
+    "madhubani_bihar": {
+        "id": 450,
+        "neighbors": [
+            "darbhanga_bihar",
+            "saharsa_bihar",
+            "sitamarhi_bihar",
+            "supaul_bihar"
+        ]
+    },
+    "madurai_tamil nadu": {
+        "id": 451,
+        "neighbors": [
+            "dindigul_tamil nadu",
+            "sivaganga_tamil nadu",
+            "theni_tamil nadu",
+            "tiruchirappalli_tamil nadu",
+            "virudhunagar_tamil nadu"
+        ]
+    },
+    "maharajganj_uttar pradesh": {
+        "id": 452,
+        "neighbors": [
+            "gorakhpur_uttar pradesh",
+            "kushinagar_uttar pradesh",
+            "siddharthnagar_uttar pradesh",
+            "west champaran_bihar"
+        ]
+    },
+    "mahasamund_chhattisgarh": {
+        "id": 453,
+        "neighbors": [
+            "baloda bazar_chhattisgarh",
+            "bargarh_odisha",
+            "gariaband_chhattisgarh",
+            "nuapada_odisha",
+            "raigarh_chhattisgarh",
+            "raipur_chhattisgarh"
+        ]
+    },
+    "mahe_puducherry": {
+        "id": 454,
+        "neighbors": [
+            "kannur_kerala",
+            "kozhikode_kerala"
+        ]
+    },
+    "mahendragarh_haryana": {
+        "id": 455,
+        "neighbors": [
+            "alwar_rajasthan",
+            "bhiwani_haryana",
+            "charkhi dadri_haryana",
+            "jaipur_rajasthan",
+            "jhajjar_haryana",
+            "jhunjhunu_rajasthan",
+            "rewari_haryana",
+            "sikar_rajasthan"
+        ]
+    },
+    "mahisagar_gujarat": {
+        "id": 456,
+        "neighbors": [
+            "aravalli_gujarat",
+            "banswara_rajasthan",
+            "dahod_gujarat",
+            "dungarpur_rajasthan",
+            "kheda_gujarat",
+            "panchmahal_gujarat"
+        ]
+    },
+    "mahoba_uttar pradesh": {
+        "id": 457,
+        "neighbors": [
+            "banda_uttar pradesh",
+            "chhatarpur_madhya pradesh",
+            "hamirpur_uttar pradesh",
+            "jhansi_uttar pradesh"
+        ]
+    },
+    "mainpuri_uttar pradesh": {
+        "id": 458,
+        "neighbors": [
+            "etah_uttar pradesh",
+            "etawah_uttar pradesh",
+            "farrukhabad_uttar pradesh",
+            "firozabad_uttar pradesh",
+            "kannauj_uttar pradesh"
+        ]
+    },
+    "malappuram_kerala": {
+        "id": 459,
+        "neighbors": [
+            "kozhikode_kerala",
+            "nilgiris_tamil nadu",
+            "palakkad_kerala",
+            "thrissur_kerala",
+            "wayanad_kerala"
+        ]
+    },
+    "malda_west bengal": {
+        "id": 460,
+        "neighbors": [
+            "dakshin dinajpur_west bengal",
+            "katihar_bihar",
+            "murshidabad_west bengal",
+            "sahibganj_jharkhand",
+            "uttar dinajpur_west bengal"
+        ]
+    },
+    "malkangiri_odisha": {
+        "id": 461,
+        "neighbors": [
+            "bastar_chhattisgarh",
+            "east godavari_andhra pradesh",
+            "koraput_odisha",
+            "sukma_chhattisgarh",
+            "visakhapatnam_andhra pradesh"
+        ]
+    },
+    "mamit_mizoram": {
+        "id": 462,
+        "neighbors": [
+            "aizawl_mizoram",
+            "kolasib_mizoram",
+            "lunglei_mizoram",
+            "north tripura_tripura",
+            "unknown_assam"
+        ]
+    },
+    "mandi_himachal pradesh": {
+        "id": 463,
+        "neighbors": [
+            "bilaspur_himachal pradesh",
+            "hamirpur_himachal pradesh",
+            "kangra_himachal pradesh",
+            "kullu_himachal pradesh",
+            "shimla_himachal pradesh",
+            "solan_himachal pradesh"
+        ]
+    },
+    "mandla_madhya pradesh": {
+        "id": 464,
+        "neighbors": [
+            "balaghat_madhya pradesh",
+            "dindori_madhya pradesh",
+            "jabalpur_madhya pradesh",
+            "kabeerdham_chhattisgarh",
+            "seoni_madhya pradesh"
+        ]
+    },
+    "mandsaur_madhya pradesh": {
+        "id": 465,
+        "neighbors": [
+            "chittorgarh_rajasthan",
+            "jhalawar_rajasthan",
+            "kota_rajasthan",
+            "neemuch_madhya pradesh",
+            "pratapgarh_rajasthan",
+            "ratlam_madhya pradesh"
+        ]
+    },
+    "mandya_karnataka": {
+        "id": 466,
+        "neighbors": [
+            "chamarajanagara_karnataka",
+            "hassan_karnataka",
+            "mysuru_karnataka",
+            "ramanagara_karnataka",
+            "tumakuru_karnataka"
+        ]
+    },
+    "mansa_punjab": {
+        "id": 467,
+        "neighbors": [
+            "barnala_punjab",
+            "bathinda_punjab",
+            "fatehabad_haryana",
+            "sangrur_punjab",
+            "sirsa_haryana"
+        ]
+    },
+    "mathura_uttar pradesh": {
+        "id": 468,
+        "neighbors": [
+            "agra_uttar pradesh",
+            "aligarh_uttar pradesh",
+            "bharatpur_rajasthan",
+            "hathras_uttar pradesh",
+            "nuh_haryana",
+            "palwal_haryana"
+        ]
+    },
+    "mau_uttar pradesh": {
+        "id": 469,
+        "neighbors": [
+            "azamgarh_uttar pradesh",
+            "ballia_uttar pradesh",
+            "deoria_uttar pradesh",
+            "ghazipur_uttar pradesh",
+            "gorakhpur_uttar pradesh"
+        ]
+    },
+    "mayurbhanj_odisha": {
+        "id": 470,
+        "neighbors": [
+            "balasore_odisha",
+            "east singhbhum_jharkhand",
+            "jhargram_west bengal",
+            "kendujhar_odisha",
+            "saraikela-kharsawan_jharkhand",
+            "west singhbhum_jharkhand"
+        ]
+    },
+    "meerut_uttar pradesh": {
+        "id": 471,
+        "neighbors": [
+            "amroha_uttar pradesh",
+            "baghpat_uttar pradesh",
+            "bijnor_uttar pradesh",
+            "ghaziabad_uttar pradesh",
+            "hapur_uttar pradesh",
+            "muzaffarnagar_uttar pradesh"
+        ]
+    },
+    "mehsana_gujarat": {
+        "id": 472,
+        "neighbors": [
+            "ahmedabad_gujarat",
+            "banaskantha_gujarat",
+            "gandhinagar_gujarat",
+            "patan_gujarat",
+            "sabarkantha_gujarat",
+            "surendranagar_gujarat"
+        ]
+    },
+    "mirzapur_uttar pradesh": {
+        "id": 473,
+        "neighbors": [
+            "bhadohi_uttar pradesh",
+            "chandauli_uttar pradesh",
+            "prayagraj_uttar pradesh",
+            "rewa_madhya pradesh",
+            "singrauli_madhya pradesh",
+            "sonbhadra_uttar pradesh",
+            "varanasi_uttar pradesh"
+        ]
+    },
+    "moga_punjab": {
+        "id": 474,
+        "neighbors": [
+            "barnala_punjab",
+            "bathinda_punjab",
+            "faridkot_punjab",
+            "ferozepur_punjab",
+            "jalandhar_punjab",
+            "ludhiana_punjab"
+        ]
+    },
+    "mokokchung_nagaland": {
+        "id": 475,
+        "neighbors": [
+            "longleng_nagaland",
+            "tuensang_nagaland",
+            "unknown_assam",
+            "wokha_nagaland",
+            "zunheboto_nagaland"
+        ]
+    },
+    "mon_nagaland": {
+        "id": 476,
+        "neighbors": [
+            "longding_arunachal pradesh",
+            "longleng_nagaland",
+            "tuensang_nagaland",
+            "unknown_assam"
+        ]
+    },
+    "moradabad_uttar pradesh": {
+        "id": 477,
+        "neighbors": [
+            "amroha_uttar pradesh",
+            "bijnor_uttar pradesh",
+            "budaun_uttar pradesh",
+            "rampur_uttar pradesh",
+            "sambhal_uttar pradesh",
+            "udham singh nagar_uttarakhand"
+        ]
+    },
+    "morbi_gujarat": {
+        "id": 478,
+        "neighbors": [
+            "jamnagar_gujarat",
+            "kutch_gujarat",
+            "rajkot_gujarat",
+            "surendranagar_gujarat"
+        ]
+    },
+    "morena_madhya pradesh": {
+        "id": 479,
+        "neighbors": [
+            "agra_uttar pradesh",
+            "bhind_madhya pradesh",
+            "dholpur_rajasthan",
+            "gwalior_madhya pradesh",
+            "karauli_rajasthan",
+            "sheopur_madhya pradesh",
+            "shivpuri_madhya pradesh"
+        ]
+    },
+    "mumbai_maharashtra": {
+        "id": 480,
+        "neighbors": [
+            "thane_maharashtra"
+        ]
+    },
+    "mungeli_chhattisgarh": {
+        "id": 481,
+        "neighbors": [
+            "anuppur_madhya pradesh",
+            "baloda bazar_chhattisgarh",
+            "bametara_chhattisgarh",
+            "bilaspur_chhattisgarh",
+            "dindori_madhya pradesh",
+            "kabeerdham_chhattisgarh"
+        ]
+    },
+    "munger_bihar": {
+        "id": 482,
+        "neighbors": [
+            "banka_bihar",
+            "begusarai_bihar",
+            "bhagalpur_bihar",
+            "jamui_bihar",
+            "khagaria_bihar",
+            "lakhisarai_bihar"
+        ]
+    },
+    "murshidabad_west bengal": {
+        "id": 483,
+        "neighbors": [
+            "birbhum_west bengal",
+            "malda_west bengal",
+            "nadia_west bengal",
+            "pakur_jharkhand",
+            "purba bardhaman_west bengal",
+            "sahibganj_jharkhand"
+        ]
+    },
+    "muzaffarnagar_uttar pradesh": {
+        "id": 484,
+        "neighbors": [
+            "baghpat_uttar pradesh",
+            "bijnor_uttar pradesh",
+            "haridwar_uttarakhand",
+            "meerut_uttar pradesh",
+            "saharanpur_uttar pradesh",
+            "shamli_uttar pradesh"
+        ]
+    },
+    "muzaffarpur_bihar": {
+        "id": 485,
+        "neighbors": [
+            "darbhanga_bihar",
+            "east champaran_bihar",
+            "gopalganj_bihar",
+            "samastipur_bihar",
+            "saran_bihar",
+            "sheohar_bihar",
+            "sitamarhi_bihar",
+            "vaishali_bihar"
+        ]
+    },
+    "mysuru_karnataka": {
+        "id": 486,
+        "neighbors": [
+            "chamarajanagara_karnataka",
+            "hassan_karnataka",
+            "kodagu_karnataka",
+            "mandya_karnataka",
+            "wayanad_kerala"
+        ]
+    },
+    "nabarangapur_odisha": {
+        "id": 487,
+        "neighbors": [
+            "bastar_chhattisgarh",
+            "dhamtari_chhattisgarh",
+            "gariaband_chhattisgarh",
+            "kalahandi_odisha",
+            "kondagaon_chhattisgarh",
+            "koraput_odisha"
+        ]
+    },
+    "nadia_west bengal": {
+        "id": 488,
+        "neighbors": [
+            "hooghly_west bengal",
+            "murshidabad_west bengal",
+            "north 24 parganas_west bengal",
+            "purba bardhaman_west bengal"
+        ]
+    },
+    "nagapattinam_tamil nadu": {
+        "id": 489,
+        "neighbors": [
+            "cuddalore_tamil nadu",
+            "karaikal_puducherry",
+            "thanjavur_tamil nadu",
+            "thiruvarur_tamil nadu"
+        ]
+    },
+    "nagaur_rajasthan": {
+        "id": 490,
+        "neighbors": [
+            "ajmer_rajasthan",
+            "bikaner_rajasthan",
+            "churu_rajasthan",
+            "jaipur_rajasthan",
+            "jodhpur_rajasthan",
+            "pali_rajasthan",
+            "sikar_rajasthan"
+        ]
+    },
+    "nagpur_maharashtra": {
+        "id": 491,
+        "neighbors": [
+            "amravati_maharashtra",
+            "balaghat_madhya pradesh",
+            "bhandara_maharashtra",
+            "chandrapur_maharashtra",
+            "chhindwara_madhya pradesh",
+            "seoni_madhya pradesh",
+            "wardha_maharashtra"
+        ]
+    },
+    "nainital_uttarakhand": {
+        "id": 492,
+        "neighbors": [
+            "almora_uttarakhand",
+            "bijnor_uttar pradesh",
+            "champawat_uttarakhand",
+            "pauri garhwal_uttarakhand",
+            "udham singh nagar_uttarakhand"
+        ]
+    },
+    "nalanda_bihar": {
+        "id": 493,
+        "neighbors": [
+            "gaya_bihar",
+            "jehanabad_bihar",
+            "lakhisarai_bihar",
+            "nawada_bihar",
+            "patna_bihar",
+            "sheikhpura_bihar"
+        ]
+    },
+    "namakkal_tamil nadu": {
+        "id": 494,
+        "neighbors": [
+            "erode_tamil nadu",
+            "karur_tamil nadu",
+            "salem_tamil nadu",
+            "tiruchirappalli_tamil nadu"
+        ]
+    },
+    "namsai_arunachal pradesh": {
+        "id": 495,
+        "neighbors": [
+            "changlang_arunachal pradesh",
+            "lohit_arunachal pradesh",
+            "unknown_assam"
+        ]
+    },
+    "nanded_maharashtra": {
+        "id": 496,
+        "neighbors": [
+            "bidar_karnataka",
+            "hingoli_maharashtra",
+            "latur_maharashtra",
+            "parbhani_maharashtra",
+            "unknown_telangana",
+            "yavatmal_maharashtra"
+        ]
+    },
+    "nandurbar_maharashtra": {
+        "id": 497,
+        "neighbors": [
+            "alirajpur_madhya pradesh",
+            "barwani_madhya pradesh",
+            "chhota udaipur_gujarat",
+            "dhule_maharashtra",
+            "narmada_gujarat",
+            "tapi_gujarat"
+        ]
+    },
+    "narayanpur_chhattisgarh": {
+        "id": 498,
+        "neighbors": [
+            "bijapur_chhattisgarh",
+            "dakshin bastar dantewada_chhattisgarh",
+            "gadchiroli_maharashtra",
+            "kondagaon_chhattisgarh",
+            "uttar bastar kanker_chhattisgarh"
+        ]
+    },
+    "narmada_gujarat": {
+        "id": 499,
+        "neighbors": [
+            "bharuch_gujarat",
+            "chhota udaipur_gujarat",
+            "nandurbar_maharashtra",
+            "surat_gujarat",
+            "tapi_gujarat",
+            "vadodara_gujarat"
+        ]
+    },
+    "narsinghpur_madhya pradesh": {
+        "id": 500,
+        "neighbors": [
+            "chhindwara_madhya pradesh",
+            "damoh_madhya pradesh",
+            "hoshangabad_madhya pradesh",
+            "jabalpur_madhya pradesh",
+            "raisen_madhya pradesh",
+            "sagar_madhya pradesh",
+            "seoni_madhya pradesh"
+        ]
+    },
+    "nashik_maharashtra": {
+        "id": 501,
+        "neighbors": [
+            "ahmednagar_maharashtra",
+            "aurangabad_maharashtra",
+            "dang_gujarat",
+            "dhule_maharashtra",
+            "jalgaon_maharashtra",
+            "navsari_gujarat",
+            "palghar_maharashtra",
+            "thane_maharashtra",
+            "valsad_gujarat"
+        ]
+    },
+    "navsari_gujarat": {
+        "id": 502,
+        "neighbors": [
+            "dang_gujarat",
+            "nashik_maharashtra",
+            "surat_gujarat",
+            "tapi_gujarat",
+            "valsad_gujarat"
+        ]
+    },
+    "nawada_bihar": {
+        "id": 503,
+        "neighbors": [
+            "gaya_bihar",
+            "giridih_jharkhand",
+            "jamui_bihar",
+            "koderma_jharkhand",
+            "nalanda_bihar",
+            "sheikhpura_bihar"
+        ]
+    },
+    "nayagarh_odisha": {
+        "id": 504,
+        "neighbors": [
+            "angul_odisha",
+            "boudh_odisha",
+            "cuttack_odisha",
+            "ganjam_odisha",
+            "kandhamal_odisha",
+            "khordha_odisha"
+        ]
+    },
+    "neemuch_madhya pradesh": {
+        "id": 505,
+        "neighbors": [
+            "bhilwara_rajasthan",
+            "chittorgarh_rajasthan",
+            "mandsaur_madhya pradesh",
+            "pratapgarh_rajasthan"
+        ]
+    },
+    "nilgiris_tamil nadu": {
+        "id": 506,
+        "neighbors": [
+            "chamarajanagara_karnataka",
+            "coimbatore_tamil nadu",
+            "erode_tamil nadu",
+            "malappuram_kerala",
+            "palakkad_kerala",
+            "wayanad_kerala"
+        ]
+    },
+    "niwari_madhya pradesh": {
+        "id": 507,
+        "neighbors": [
+            "jhansi_uttar pradesh",
+            "lalitpur_uttar pradesh",
+            "tikamgarh_madhya pradesh"
+        ]
+    },
+    "north 24 parganas_west bengal": {
+        "id": 508,
+        "neighbors": [
+            "hooghly_west bengal",
+            "howrah_west bengal",
+            "kolkata_west bengal",
+            "nadia_west bengal",
+            "south 24 parganas_west bengal"
+        ]
+    },
+    "north garo hills_meghalaya": {
+        "id": 509,
+        "neighbors": [
+            "east garo hills_meghalaya",
+            "unknown_assam",
+            "west garo hills_meghalaya",
+            "west khasi hills_meghalaya"
+        ]
+    },
+    "north tripura_tripura": {
+        "id": 510,
+        "neighbors": [
+            "dhalai_tripura",
+            "mamit_mizoram",
+            "unknown_assam",
+            "unokoti_tripura"
+        ]
+    },
+    "nuapada_odisha": {
+        "id": 511,
+        "neighbors": [
+            "balangir_odisha",
+            "bargarh_odisha",
+            "gariaband_chhattisgarh",
+            "kalahandi_odisha",
+            "mahasamund_chhattisgarh"
+        ]
+    },
+    "nuh_haryana": {
+        "id": 512,
+        "neighbors": [
+            "alwar_rajasthan",
+            "bharatpur_rajasthan",
+            "gurugram_haryana",
+            "mathura_uttar pradesh",
+            "palwal_haryana",
+            "rewari_haryana"
+        ]
+    },
+    "osmanabad_maharashtra": {
+        "id": 513,
+        "neighbors": [
+            "ahmednagar_maharashtra",
+            "beed_maharashtra",
+            "bidar_karnataka",
+            "kalaburagi_karnataka",
+            "latur_maharashtra",
+            "solapur_maharashtra"
+        ]
+    },
+    "pakke kessang_arunachal pradesh": {
+        "id": 514,
+        "neighbors": [
+            "east kameng_arunachal pradesh",
+            "papum pare_arunachal pradesh",
+            "unknown_assam",
+            "west kameng_arunachal pradesh"
+        ]
+    },
+    "pakur_jharkhand": {
+        "id": 515,
+        "neighbors": [
+            "birbhum_west bengal",
+            "dumka_jharkhand",
+            "godda_jharkhand",
+            "murshidabad_west bengal",
+            "sahibganj_jharkhand"
+        ]
+    },
+    "palakkad_kerala": {
+        "id": 516,
+        "neighbors": [
+            "coimbatore_tamil nadu",
+            "malappuram_kerala",
+            "nilgiris_tamil nadu",
+            "thrissur_kerala"
+        ]
+    },
+    "palamu_jharkhand": {
+        "id": 517,
+        "neighbors": [
+            "aurangabad_bihar",
+            "chatra_jharkhand",
+            "garhwa_jharkhand",
+            "gaya_bihar",
+            "latehar_jharkhand",
+            "rohtas_bihar"
+        ]
+    },
+    "palghar_maharashtra": {
+        "id": 518,
+        "neighbors": [
+            "dadra and nagar haveli_dadra and nagar haveli and daman and diu",
+            "nashik_maharashtra",
+            "thane_maharashtra",
+            "valsad_gujarat"
+        ]
+    },
+    "pali_rajasthan": {
+        "id": 519,
+        "neighbors": [
+            "ajmer_rajasthan",
+            "barmer_rajasthan",
+            "jalore_rajasthan",
+            "jodhpur_rajasthan",
+            "nagaur_rajasthan",
+            "rajsamand_rajasthan",
+            "sirohi_rajasthan",
+            "udaipur_rajasthan"
+        ]
+    },
+    "palwal_haryana": {
+        "id": 520,
+        "neighbors": [
+            "aligarh_uttar pradesh",
+            "faridabad_haryana",
+            "gautam buddha nagar_uttar pradesh",
+            "gurugram_haryana",
+            "mathura_uttar pradesh",
+            "nuh_haryana"
+        ]
+    },
+    "panchkula_haryana": {
+        "id": 521,
+        "neighbors": [
+            "ambala_haryana",
+            "chandigarh_chandigarh",
+            "s.a.s. nagar_punjab",
+            "sirmaur_himachal pradesh",
+            "solan_himachal pradesh"
+        ]
+    },
+    "panchmahal_gujarat": {
+        "id": 522,
+        "neighbors": [
+            "chhota udaipur_gujarat",
+            "dahod_gujarat",
+            "kheda_gujarat",
+            "mahisagar_gujarat",
+            "vadodara_gujarat"
+        ]
+    },
+    "panipat_haryana": {
+        "id": 523,
+        "neighbors": [
+            "baghpat_uttar pradesh",
+            "jind_haryana",
+            "karnal_haryana",
+            "shamli_uttar pradesh",
+            "sonipat_haryana"
+        ]
+    },
+    "panna_madhya pradesh": {
+        "id": 524,
+        "neighbors": [
+            "banda_uttar pradesh",
+            "chhatarpur_madhya pradesh",
+            "damoh_madhya pradesh",
+            "katni_madhya pradesh",
+            "satna_madhya pradesh"
+        ]
+    },
+    "papum pare_arunachal pradesh": {
+        "id": 525,
+        "neighbors": [
+            "east kameng_arunachal pradesh",
+            "kamle_arunachal pradesh",
+            "kra daadi_arunachal pradesh",
+            "kurung kumey_arunachal pradesh",
+            "lower subansiri_arunachal pradesh",
+            "pakke kessang_arunachal pradesh",
+            "unknown_assam"
+        ]
+    },
+    "parbhani_maharashtra": {
+        "id": 526,
+        "neighbors": [
+            "beed_maharashtra",
+            "buldhana_maharashtra",
+            "hingoli_maharashtra",
+            "jalna_maharashtra",
+            "latur_maharashtra",
+            "nanded_maharashtra",
+            "washim_maharashtra"
+        ]
+    },
+    "paschim bardhaman_west bengal": {
+        "id": 527,
+        "neighbors": [
+            "bankura_west bengal",
+            "birbhum_west bengal",
+            "dhanbad_jharkhand",
+            "jamtara_jharkhand",
+            "purba bardhaman_west bengal",
+            "purulia_west bengal"
+        ]
+    },
+    "paschim medinipur_west bengal": {
+        "id": 528,
+        "neighbors": [
+            "balasore_odisha",
+            "bankura_west bengal",
+            "hooghly_west bengal",
+            "howrah_west bengal",
+            "jhargram_west bengal",
+            "purba medinipur_west bengal"
+        ]
+    },
+    "patan_gujarat": {
+        "id": 529,
+        "neighbors": [
+            "banaskantha_gujarat",
+            "kutch_gujarat",
+            "mehsana_gujarat",
+            "surendranagar_gujarat"
+        ]
+    },
+    "pathanamthitta_kerala": {
+        "id": 530,
+        "neighbors": [
+            "alappuzha_kerala",
+            "idukki_kerala",
+            "kollam_kerala",
+            "kottayam_kerala",
+            "tirunelveli_tamil nadu"
+        ]
+    },
+    "pathankot_punjab": {
+        "id": 531,
+        "neighbors": [
+            "chamba_himachal pradesh",
+            "gurdaspur_punjab",
+            "kangra_himachal pradesh",
+            "kathua_jammu and kashmir"
+        ]
+    },
+    "patiala_punjab": {
+        "id": 532,
+        "neighbors": [
+            "ambala_haryana",
+            "fatehgarh sahib_punjab",
+            "jind_haryana",
+            "kaithal_haryana",
+            "kurukshetra_haryana",
+            "s.a.s. nagar_punjab",
+            "sangrur_punjab"
+        ]
+    },
+    "patna_bihar": {
+        "id": 533,
+        "neighbors": [
+            "arwal_bihar",
+            "begusarai_bihar",
+            "bhojpur_bihar",
+            "jehanabad_bihar",
+            "lakhisarai_bihar",
+            "nalanda_bihar",
+            "samastipur_bihar",
+            "saran_bihar",
+            "vaishali_bihar"
+        ]
+    },
+    "pauri garhwal_uttarakhand": {
+        "id": 534,
+        "neighbors": [
+            "almora_uttarakhand",
+            "bijnor_uttar pradesh",
+            "chamoli_uttarakhand",
+            "dehradun_uttarakhand",
+            "haridwar_uttarakhand",
+            "nainital_uttarakhand",
+            "rudraprayag_uttarakhand",
+            "tehri garhwal_uttarakhand"
+        ]
+    },
+    "perambalur_tamil nadu": {
+        "id": 535,
+        "neighbors": [
+            "ariyalur_tamil nadu",
+            "cuddalore_tamil nadu",
+            "kallakurichi_tamil nadu",
+            "salem_tamil nadu",
+            "tiruchirappalli_tamil nadu"
+        ]
+    },
+    "peren_nagaland": {
+        "id": 536,
+        "neighbors": [
+            "dimapur_nagaland",
+            "kohima_nagaland",
+            "unknown_assam",
+            "unknown_manipur"
+        ]
+    },
+    "phek_nagaland": {
+        "id": 537,
+        "neighbors": [
+            "kiphire_nagaland",
+            "kohima_nagaland",
+            "unknown_manipur",
+            "zunheboto_nagaland"
+        ]
+    },
+    "pilibhit_uttar pradesh": {
+        "id": 538,
+        "neighbors": [
+            "bareilly_uttar pradesh",
+            "lakhimpur kheri_uttar pradesh",
+            "shahjahanpur_uttar pradesh",
+            "udham singh nagar_uttarakhand"
+        ]
+    },
+    "pithoragarh_uttarakhand": {
+        "id": 539,
+        "neighbors": [
+            "almora_uttarakhand",
+            "bageshwar_uttarakhand",
+            "chamoli_uttarakhand",
+            "champawat_uttarakhand"
+        ]
+    },
+    "porbandar_gujarat": {
+        "id": 540,
+        "neighbors": [
+            "devbhumi dwarka_gujarat",
+            "jamnagar_gujarat",
+            "junagadh_gujarat",
+            "rajkot_gujarat"
+        ]
+    },
+    "prakasam_andhra pradesh": {
+        "id": 541,
+        "neighbors": [
+            "guntur_andhra pradesh",
+            "kurnool_andhra pradesh",
+            "s.p.s. nellore_andhra pradesh",
+            "unknown_telangana",
+            "y.s.r. kadapa_andhra pradesh"
+        ]
+    },
+    "pratapgarh_rajasthan": {
+        "id": 542,
+        "neighbors": [
+            "banswara_rajasthan",
+            "chittorgarh_rajasthan",
+            "dungarpur_rajasthan",
+            "mandsaur_madhya pradesh",
+            "neemuch_madhya pradesh",
+            "ratlam_madhya pradesh",
+            "udaipur_rajasthan"
+        ]
+    },
+    "pratapgarh_uttar pradesh": {
+        "id": 543,
+        "neighbors": [
+            "amethi_uttar pradesh",
+            "fatehpur_uttar pradesh",
+            "jaunpur_uttar pradesh",
+            "kaushambi_uttar pradesh",
+            "prayagraj_uttar pradesh",
+            "rae bareli_uttar pradesh",
+            "sultanpur_uttar pradesh"
+        ]
+    },
+    "prayagraj_uttar pradesh": {
+        "id": 544,
+        "neighbors": [
+            "bhadohi_uttar pradesh",
+            "chitrakoot_uttar pradesh",
+            "jaunpur_uttar pradesh",
+            "kaushambi_uttar pradesh",
+            "mirzapur_uttar pradesh",
+            "pratapgarh_uttar pradesh",
+            "rewa_madhya pradesh"
+        ]
+    },
+    "puducherry_puducherry": {
+        "id": 545,
+        "neighbors": [
+            "cuddalore_tamil nadu",
+            "viluppuram_tamil nadu"
+        ]
+    },
+    "pudukkottai_tamil nadu": {
+        "id": 546,
+        "neighbors": [
+            "ramanathapuram_tamil nadu",
+            "sivaganga_tamil nadu",
+            "thanjavur_tamil nadu",
+            "tiruchirappalli_tamil nadu"
+        ]
+    },
+    "pulwama_jammu and kashmir": {
+        "id": 547,
+        "neighbors": [
+            "anantnag_jammu and kashmir",
+            "budgam_jammu and kashmir",
+            "shopiyan_jammu and kashmir",
+            "srinagar_jammu and kashmir"
+        ]
+    },
+    "punch_jammu and kashmir": {
+        "id": 548,
+        "neighbors": [
+            "baramulla_jammu and kashmir",
+            "budgam_jammu and kashmir",
+            "kulgam_jammu and kashmir",
+            "rajouri_jammu and kashmir",
+            "reasi_jammu and kashmir"
+        ]
+    },
+    "pune_maharashtra": {
+        "id": 549,
+        "neighbors": [
+            "ahmednagar_maharashtra",
+            "raigad_maharashtra",
+            "satara_maharashtra",
+            "solapur_maharashtra",
+            "thane_maharashtra"
+        ]
+    },
+    "purba bardhaman_west bengal": {
+        "id": 550,
+        "neighbors": [
+            "bankura_west bengal",
+            "birbhum_west bengal",
+            "hooghly_west bengal",
+            "murshidabad_west bengal",
+            "nadia_west bengal",
+            "paschim bardhaman_west bengal"
+        ]
+    },
+    "purba medinipur_west bengal": {
+        "id": 551,
+        "neighbors": [
+            "balasore_odisha",
+            "howrah_west bengal",
+            "paschim medinipur_west bengal",
+            "south 24 parganas_west bengal"
+        ]
+    },
+    "puri_odisha": {
+        "id": 552,
+        "neighbors": [
+            "cuttack_odisha",
+            "ganjam_odisha",
+            "jagatsinghpur_odisha",
+            "khordha_odisha"
+        ]
+    },
+    "purnia_bihar": {
+        "id": 553,
+        "neighbors": [
+            "araria_bihar",
+            "bhagalpur_bihar",
+            "katihar_bihar",
+            "kishanganj_bihar",
+            "madhepura_bihar",
+            "uttar dinajpur_west bengal"
+        ]
+    },
+    "purulia_west bengal": {
+        "id": 554,
+        "neighbors": [
+            "bankura_west bengal",
+            "bokaro_jharkhand",
+            "dhanbad_jharkhand",
+            "east singhbhum_jharkhand",
+            "jhargram_west bengal",
+            "paschim bardhaman_west bengal",
+            "ramgarh_jharkhand",
+            "ranchi_jharkhand",
+            "saraikela-kharsawan_jharkhand"
+        ]
+    },
+    "rae bareli_uttar pradesh": {
+        "id": 555,
+        "neighbors": [
+            "amethi_uttar pradesh",
+            "barabanki_uttar pradesh",
+            "fatehpur_uttar pradesh",
+            "kaushambi_uttar pradesh",
+            "lucknow_uttar pradesh",
+            "pratapgarh_uttar pradesh",
+            "unnao_uttar pradesh"
+        ]
+    },
+    "raichur_karnataka": {
+        "id": 556,
+        "neighbors": [
+            "bagalkote_karnataka",
+            "ballari_karnataka",
+            "koppal_karnataka",
+            "kurnool_andhra pradesh",
+            "unknown_telangana",
+            "vijayapura_karnataka",
+            "yadgir_karnataka"
+        ]
+    },
+    "raigad_maharashtra": {
+        "id": 557,
+        "neighbors": [
+            "pune_maharashtra",
+            "ratnagiri_maharashtra",
+            "satara_maharashtra",
+            "thane_maharashtra"
+        ]
+    },
+    "raigarh_chhattisgarh": {
+        "id": 558,
+        "neighbors": [
+            "baloda bazar_chhattisgarh",
+            "bargarh_odisha",
+            "janjgir champa_chhattisgarh",
+            "jashpur_chhattisgarh",
+            "jharsuguda_odisha",
+            "korba_chhattisgarh",
+            "mahasamund_chhattisgarh",
+            "sundargarh_odisha",
+            "surguja_chhattisgarh"
+        ]
+    },
+    "raipur_chhattisgarh": {
+        "id": 559,
+        "neighbors": [
+            "baloda bazar_chhattisgarh",
+            "bametara_chhattisgarh",
+            "dhamtari_chhattisgarh",
+            "durg_chhattisgarh",
+            "gariaband_chhattisgarh",
+            "mahasamund_chhattisgarh"
+        ]
+    },
+    "raisen_madhya pradesh": {
+        "id": 560,
+        "neighbors": [
+            "bhopal_madhya pradesh",
+            "hoshangabad_madhya pradesh",
+            "narsinghpur_madhya pradesh",
+            "sagar_madhya pradesh",
+            "sehore_madhya pradesh",
+            "vidisha_madhya pradesh"
+        ]
+    },
+    "rajgarh_madhya pradesh": {
+        "id": 561,
+        "neighbors": [
+            "agar malwa_madhya pradesh",
+            "bhopal_madhya pradesh",
+            "guna_madhya pradesh",
+            "jhalawar_rajasthan",
+            "sehore_madhya pradesh",
+            "shajapur_madhya pradesh"
+        ]
+    },
+    "rajkot_gujarat": {
+        "id": 562,
+        "neighbors": [
+            "amreli_gujarat",
+            "botad_gujarat",
+            "jamnagar_gujarat",
+            "junagadh_gujarat",
+            "morbi_gujarat",
+            "porbandar_gujarat",
+            "surendranagar_gujarat"
+        ]
+    },
+    "rajnandgaon_chhattisgarh": {
+        "id": 563,
+        "neighbors": [
+            "balaghat_madhya pradesh",
+            "balod_chhattisgarh",
+            "bametara_chhattisgarh",
+            "durg_chhattisgarh",
+            "gadchiroli_maharashtra",
+            "gondia_maharashtra",
+            "kabeerdham_chhattisgarh",
+            "uttar bastar kanker_chhattisgarh"
+        ]
+    },
+    "rajouri_jammu and kashmir": {
+        "id": 564,
+        "neighbors": [
+            "jammu_jammu and kashmir",
+            "kulgam_jammu and kashmir",
+            "punch_jammu and kashmir",
+            "reasi_jammu and kashmir"
+        ]
+    },
+    "rajsamand_rajasthan": {
+        "id": 565,
+        "neighbors": [
+            "ajmer_rajasthan",
+            "bhilwara_rajasthan",
+            "chittorgarh_rajasthan",
+            "pali_rajasthan",
+            "udaipur_rajasthan"
+        ]
+    },
+    "ramanagara_karnataka": {
+        "id": 566,
+        "neighbors": [
+            "bengaluru rural_karnataka",
+            "bengaluru urban_karnataka",
+            "chamarajanagara_karnataka",
+            "krishnagiri_tamil nadu",
+            "mandya_karnataka",
+            "tumakuru_karnataka"
+        ]
+    },
+    "ramanathapuram_tamil nadu": {
+        "id": 567,
+        "neighbors": [
+            "pudukkottai_tamil nadu",
+            "sivaganga_tamil nadu",
+            "thoothukkudi_tamil nadu",
+            "virudhunagar_tamil nadu"
+        ]
+    },
+    "ramban_jammu and kashmir": {
+        "id": 568,
+        "neighbors": [
+            "anantnag_jammu and kashmir",
+            "doda_jammu and kashmir",
+            "kulgam_jammu and kashmir",
+            "reasi_jammu and kashmir",
+            "udhampur_jammu and kashmir"
+        ]
+    },
+    "ramgarh_jharkhand": {
+        "id": 569,
+        "neighbors": [
+            "bokaro_jharkhand",
+            "hazaribagh_jharkhand",
+            "purulia_west bengal",
+            "ranchi_jharkhand"
+        ]
+    },
+    "rampur_uttar pradesh": {
+        "id": 570,
+        "neighbors": [
+            "bareilly_uttar pradesh",
+            "budaun_uttar pradesh",
+            "moradabad_uttar pradesh",
+            "udham singh nagar_uttarakhand"
+        ]
+    },
+    "ranchi_jharkhand": {
+        "id": 571,
+        "neighbors": [
+            "chatra_jharkhand",
+            "gumla_jharkhand",
+            "hazaribagh_jharkhand",
+            "khunti_jharkhand",
+            "latehar_jharkhand",
+            "lohardaga_jharkhand",
+            "purulia_west bengal",
+            "ramgarh_jharkhand",
+            "saraikela-kharsawan_jharkhand"
+        ]
+    },
+    "ratlam_madhya pradesh": {
+        "id": 572,
+        "neighbors": [
+            "agar malwa_madhya pradesh",
+            "banswara_rajasthan",
+            "dhar_madhya pradesh",
+            "jhabua_madhya pradesh",
+            "jhalawar_rajasthan",
+            "mandsaur_madhya pradesh",
+            "pratapgarh_rajasthan",
+            "ujjain_madhya pradesh"
+        ]
+    },
+    "ratnagiri_maharashtra": {
+        "id": 573,
+        "neighbors": [
+            "kolhapur_maharashtra",
+            "raigad_maharashtra",
+            "sangli_maharashtra",
+            "satara_maharashtra",
+            "sindhudurg_maharashtra"
+        ]
+    },
+    "rayagada_odisha": {
+        "id": 574,
+        "neighbors": [
+            "gajapati_odisha",
+            "kalahandi_odisha",
+            "kandhamal_odisha",
+            "koraput_odisha",
+            "srikakulam_andhra pradesh",
+            "vizianagaram_andhra pradesh"
+        ]
+    },
+    "reasi_jammu and kashmir": {
+        "id": 575,
+        "neighbors": [
+            "jammu_jammu and kashmir",
+            "kulgam_jammu and kashmir",
+            "punch_jammu and kashmir",
+            "rajouri_jammu and kashmir",
+            "ramban_jammu and kashmir",
+            "udhampur_jammu and kashmir"
+        ]
+    },
+    "rewa_madhya pradesh": {
+        "id": 576,
+        "neighbors": [
+            "chitrakoot_uttar pradesh",
+            "mirzapur_uttar pradesh",
+            "prayagraj_uttar pradesh",
+            "satna_madhya pradesh",
+            "sidhi_madhya pradesh",
+            "singrauli_madhya pradesh"
+        ]
+    },
+    "rewari_haryana": {
+        "id": 577,
+        "neighbors": [
+            "alwar_rajasthan",
+            "gurugram_haryana",
+            "jhajjar_haryana",
+            "mahendragarh_haryana",
+            "nuh_haryana"
+        ]
+    },
+    "ribhoi_meghalaya": {
+        "id": 578,
+        "neighbors": [
+            "east khasi hills_meghalaya",
+            "unknown_assam",
+            "west jaintia hills_meghalaya",
+            "west khasi hills_meghalaya"
+        ]
+    },
+    "rohtak_haryana": {
+        "id": 579,
+        "neighbors": [
+            "bhiwani_haryana",
+            "charkhi dadri_haryana",
+            "hisar_haryana",
+            "jhajjar_haryana",
+            "jind_haryana",
+            "sonipat_haryana"
+        ]
+    },
+    "rohtas_bihar": {
+        "id": 580,
+        "neighbors": [
+            "arwal_bihar",
+            "aurangabad_bihar",
+            "bhojpur_bihar",
+            "buxar_bihar",
+            "garhwa_jharkhand",
+            "kaimur_bihar",
+            "palamu_jharkhand",
+            "sonbhadra_uttar pradesh"
+        ]
+    },
+    "rudraprayag_uttarakhand": {
+        "id": 581,
+        "neighbors": [
+            "chamoli_uttarakhand",
+            "pauri garhwal_uttarakhand",
+            "tehri garhwal_uttarakhand",
+            "uttarkashi_uttarakhand"
+        ]
+    },
+    "rupnagar_punjab": {
+        "id": 582,
+        "neighbors": [
+            "bilaspur_himachal pradesh",
+            "fatehgarh sahib_punjab",
+            "hoshiarpur_punjab",
+            "ludhiana_punjab",
+            "s.a.s. nagar_punjab",
+            "shahid bhagat singh nagar_punjab",
+            "solan_himachal pradesh",
+            "una_himachal pradesh"
+        ]
+    },
+    "s.a.s. nagar_punjab": {
+        "id": 583,
+        "neighbors": [
+            "ambala_haryana",
+            "chandigarh_chandigarh",
+            "fatehgarh sahib_punjab",
+            "panchkula_haryana",
+            "patiala_punjab",
+            "rupnagar_punjab",
+            "solan_himachal pradesh"
+        ]
+    },
+    "s.p.s. nellore_andhra pradesh": {
+        "id": 584,
+        "neighbors": [
+            "chittoor_andhra pradesh",
+            "prakasam_andhra pradesh",
+            "thiruvallur_tamil nadu",
+            "y.s.r. kadapa_andhra pradesh"
+        ]
+    },
+    "sabarkantha_gujarat": {
+        "id": 585,
+        "neighbors": [
+            "aravalli_gujarat",
+            "banaskantha_gujarat",
+            "gandhinagar_gujarat",
+            "mehsana_gujarat",
+            "sirohi_rajasthan",
+            "udaipur_rajasthan"
+        ]
+    },
+    "sagar_madhya pradesh": {
+        "id": 586,
+        "neighbors": [
+            "ashoknagar_madhya pradesh",
+            "chhatarpur_madhya pradesh",
+            "damoh_madhya pradesh",
+            "lalitpur_uttar pradesh",
+            "narsinghpur_madhya pradesh",
+            "raisen_madhya pradesh",
+            "vidisha_madhya pradesh"
+        ]
+    },
+    "saharanpur_uttar pradesh": {
+        "id": 587,
+        "neighbors": [
+            "dehradun_uttarakhand",
+            "haridwar_uttarakhand",
+            "karnal_haryana",
+            "muzaffarnagar_uttar pradesh",
+            "shamli_uttar pradesh",
+            "sirmaur_himachal pradesh",
+            "yamunanagar_haryana"
+        ]
+    },
+    "saharsa_bihar": {
+        "id": 588,
+        "neighbors": [
+            "darbhanga_bihar",
+            "khagaria_bihar",
+            "madhepura_bihar",
+            "madhubani_bihar",
+            "samastipur_bihar",
+            "supaul_bihar"
+        ]
+    },
+    "sahibganj_jharkhand": {
+        "id": 589,
+        "neighbors": [
+            "bhagalpur_bihar",
+            "godda_jharkhand",
+            "katihar_bihar",
+            "malda_west bengal",
+            "murshidabad_west bengal",
+            "pakur_jharkhand"
+        ]
+    },
+    "saiha_mizoram": {
+        "id": 590,
+        "neighbors": [
+            "lawngtlai_mizoram"
+        ]
+    },
+    "salem_tamil nadu": {
+        "id": 591,
+        "neighbors": [
+            "chamarajanagara_karnataka",
+            "dharmapuri_tamil nadu",
+            "erode_tamil nadu",
+            "kallakurichi_tamil nadu",
+            "namakkal_tamil nadu",
+            "perambalur_tamil nadu",
+            "tiruchirappalli_tamil nadu"
+        ]
+    },
+    "samastipur_bihar": {
+        "id": 592,
+        "neighbors": [
+            "begusarai_bihar",
+            "darbhanga_bihar",
+            "khagaria_bihar",
+            "muzaffarpur_bihar",
+            "patna_bihar",
+            "saharsa_bihar",
+            "vaishali_bihar"
+        ]
+    },
+    "samba_jammu and kashmir": {
+        "id": 593,
+        "neighbors": [
+            "jammu_jammu and kashmir",
+            "kathua_jammu and kashmir",
+            "udhampur_jammu and kashmir"
+        ]
+    },
+    "sambalpur_odisha": {
+        "id": 594,
+        "neighbors": [
+            "angul_odisha",
+            "bargarh_odisha",
+            "deogarh_odisha",
+            "jharsuguda_odisha",
+            "subarnapur_odisha",
+            "sundargarh_odisha"
+        ]
+    },
+    "sambhal_uttar pradesh": {
+        "id": 595,
+        "neighbors": [
+            "aligarh_uttar pradesh",
+            "amroha_uttar pradesh",
+            "budaun_uttar pradesh",
+            "bulandshahr_uttar pradesh",
+            "moradabad_uttar pradesh"
+        ]
+    },
+    "sangli_maharashtra": {
+        "id": 596,
+        "neighbors": [
+            "belagavi_karnataka",
+            "kolhapur_maharashtra",
+            "ratnagiri_maharashtra",
+            "satara_maharashtra",
+            "solapur_maharashtra",
+            "vijayapura_karnataka"
+        ]
+    },
+    "sangrur_punjab": {
+        "id": 597,
+        "neighbors": [
+            "barnala_punjab",
+            "fatehabad_haryana",
+            "fatehgarh sahib_punjab",
+            "jind_haryana",
+            "ludhiana_punjab",
+            "mansa_punjab",
+            "patiala_punjab"
+        ]
+    },
+    "sant kabir nagar_uttar pradesh": {
+        "id": 598,
+        "neighbors": [
+            "ambedkar nagar_uttar pradesh",
+            "basti_uttar pradesh",
+            "gorakhpur_uttar pradesh",
+            "siddharthnagar_uttar pradesh"
+        ]
+    },
+    "saraikela-kharsawan_jharkhand": {
+        "id": 599,
+        "neighbors": [
+            "east singhbhum_jharkhand",
+            "khunti_jharkhand",
+            "mayurbhanj_odisha",
+            "purulia_west bengal",
+            "ranchi_jharkhand",
+            "west singhbhum_jharkhand"
+        ]
+    },
+    "saran_bihar": {
+        "id": 600,
+        "neighbors": [
+            "ballia_uttar pradesh",
+            "bhojpur_bihar",
+            "gopalganj_bihar",
+            "muzaffarpur_bihar",
+            "patna_bihar",
+            "siwan_bihar",
+            "vaishali_bihar"
+        ]
+    },
+    "satara_maharashtra": {
+        "id": 601,
+        "neighbors": [
+            "pune_maharashtra",
+            "raigad_maharashtra",
+            "ratnagiri_maharashtra",
+            "sangli_maharashtra",
+            "solapur_maharashtra"
+        ]
+    },
+    "satna_madhya pradesh": {
+        "id": 602,
+        "neighbors": [
+            "banda_uttar pradesh",
+            "chitrakoot_uttar pradesh",
+            "katni_madhya pradesh",
+            "panna_madhya pradesh",
+            "rewa_madhya pradesh",
+            "shahdol_madhya pradesh",
+            "sidhi_madhya pradesh",
+            "umaria_madhya pradesh"
+        ]
+    },
+    "sawai madhopur_rajasthan": {
+        "id": 603,
+        "neighbors": [
+            "bundi_rajasthan",
+            "dausa_rajasthan",
+            "karauli_rajasthan",
+            "kota_rajasthan",
+            "sheopur_madhya pradesh",
+            "tonk_rajasthan"
+        ]
+    },
+    "sehore_madhya pradesh": {
+        "id": 604,
+        "neighbors": [
+            "bhopal_madhya pradesh",
+            "dewas_madhya pradesh",
+            "harda_madhya pradesh",
+            "hoshangabad_madhya pradesh",
+            "raisen_madhya pradesh",
+            "rajgarh_madhya pradesh",
+            "shajapur_madhya pradesh"
+        ]
+    },
+    "seoni_madhya pradesh": {
+        "id": 605,
+        "neighbors": [
+            "balaghat_madhya pradesh",
+            "chhindwara_madhya pradesh",
+            "jabalpur_madhya pradesh",
+            "mandla_madhya pradesh",
+            "nagpur_maharashtra",
+            "narsinghpur_madhya pradesh"
+        ]
+    },
+    "serchhip_mizoram": {
+        "id": 606,
+        "neighbors": [
+            "aizawl_mizoram",
+            "champhai_mizoram",
+            "lunglei_mizoram"
+        ]
+    },
+    "shahdol_madhya pradesh": {
+        "id": 607,
+        "neighbors": [
+            "anuppur_madhya pradesh",
+            "koriya_chhattisgarh",
+            "satna_madhya pradesh",
+            "sidhi_madhya pradesh",
+            "umaria_madhya pradesh"
+        ]
+    },
+    "shahid bhagat singh nagar_punjab": {
+        "id": 608,
+        "neighbors": [
+            "hoshiarpur_punjab",
+            "jalandhar_punjab",
+            "kapurthala_punjab",
+            "ludhiana_punjab",
+            "rupnagar_punjab"
+        ]
+    },
+    "shahjahanpur_uttar pradesh": {
+        "id": 609,
+        "neighbors": [
+            "bareilly_uttar pradesh",
+            "budaun_uttar pradesh",
+            "farrukhabad_uttar pradesh",
+            "hardoi_uttar pradesh",
+            "lakhimpur kheri_uttar pradesh",
+            "pilibhit_uttar pradesh"
+        ]
+    },
+    "shajapur_madhya pradesh": {
+        "id": 610,
+        "neighbors": [
+            "agar malwa_madhya pradesh",
+            "dewas_madhya pradesh",
+            "rajgarh_madhya pradesh",
+            "sehore_madhya pradesh",
+            "ujjain_madhya pradesh"
+        ]
+    },
+    "shamli_uttar pradesh": {
+        "id": 611,
+        "neighbors": [
+            "baghpat_uttar pradesh",
+            "karnal_haryana",
+            "muzaffarnagar_uttar pradesh",
+            "panipat_haryana",
+            "saharanpur_uttar pradesh"
+        ]
+    },
+    "sheikhpura_bihar": {
+        "id": 612,
+        "neighbors": [
+            "jamui_bihar",
+            "lakhisarai_bihar",
+            "nalanda_bihar",
+            "nawada_bihar"
+        ]
+    },
+    "sheohar_bihar": {
+        "id": 613,
+        "neighbors": [
+            "east champaran_bihar",
+            "muzaffarpur_bihar",
+            "sitamarhi_bihar"
+        ]
+    },
+    "sheopur_madhya pradesh": {
+        "id": 614,
+        "neighbors": [
+            "baran_rajasthan",
+            "karauli_rajasthan",
+            "kota_rajasthan",
+            "morena_madhya pradesh",
+            "sawai madhopur_rajasthan",
+            "shivpuri_madhya pradesh"
+        ]
+    },
+    "shi yomi_arunachal pradesh": {
+        "id": 615,
+        "neighbors": [
+            "siang_arunachal pradesh",
+            "upper siang_arunachal pradesh",
+            "upper subansiri_arunachal pradesh",
+            "west siang_arunachal pradesh"
+        ]
+    },
+    "shimla_himachal pradesh": {
+        "id": 616,
+        "neighbors": [
+            "dehradun_uttarakhand",
+            "kinnaur_himachal pradesh",
+            "kullu_himachal pradesh",
+            "mandi_himachal pradesh",
+            "sirmaur_himachal pradesh",
+            "solan_himachal pradesh",
+            "uttarkashi_uttarakhand"
+        ]
+    },
+    "shivamogga_karnataka": {
+        "id": 617,
+        "neighbors": [
+            "chikkamagaluru_karnataka",
+            "davanagere_karnataka",
+            "haveri_karnataka",
+            "udupi_karnataka",
+            "uttara kannada_karnataka"
+        ]
+    },
+    "shivpuri_madhya pradesh": {
+        "id": 618,
+        "neighbors": [
+            "ashoknagar_madhya pradesh",
+            "baran_rajasthan",
+            "datia_madhya pradesh",
+            "guna_madhya pradesh",
+            "gwalior_madhya pradesh",
+            "jhansi_uttar pradesh",
+            "lalitpur_uttar pradesh",
+            "morena_madhya pradesh",
+            "sheopur_madhya pradesh"
+        ]
+    },
+    "shopiyan_jammu and kashmir": {
+        "id": 619,
+        "neighbors": [
+            "anantnag_jammu and kashmir",
+            "budgam_jammu and kashmir",
+            "kulgam_jammu and kashmir",
+            "pulwama_jammu and kashmir"
+        ]
+    },
+    "shrawasti_uttar pradesh": {
+        "id": 620,
+        "neighbors": [
+            "bahraich_uttar pradesh",
+            "balrampur_uttar pradesh",
+            "gonda_uttar pradesh"
+        ]
+    },
+    "siang_arunachal pradesh": {
+        "id": 621,
+        "neighbors": [
+            "east siang_arunachal pradesh",
+            "lower siang_arunachal pradesh",
+            "shi yomi_arunachal pradesh",
+            "upper siang_arunachal pradesh",
+            "west siang_arunachal pradesh"
+        ]
+    },
+    "siddharthnagar_uttar pradesh": {
+        "id": 622,
+        "neighbors": [
+            "balrampur_uttar pradesh",
+            "basti_uttar pradesh",
+            "gonda_uttar pradesh",
+            "gorakhpur_uttar pradesh",
+            "maharajganj_uttar pradesh",
+            "sant kabir nagar_uttar pradesh"
+        ]
+    },
+    "sidhi_madhya pradesh": {
+        "id": 623,
+        "neighbors": [
+            "koriya_chhattisgarh",
+            "rewa_madhya pradesh",
+            "satna_madhya pradesh",
+            "shahdol_madhya pradesh",
+            "singrauli_madhya pradesh"
+        ]
+    },
+    "sikar_rajasthan": {
+        "id": 624,
+        "neighbors": [
+            "churu_rajasthan",
+            "jaipur_rajasthan",
+            "jhunjhunu_rajasthan",
+            "mahendragarh_haryana",
+            "nagaur_rajasthan"
+        ]
+    },
+    "simdega_jharkhand": {
+        "id": 625,
+        "neighbors": [
+            "gumla_jharkhand",
+            "jashpur_chhattisgarh",
+            "khunti_jharkhand",
+            "sundargarh_odisha",
+            "west singhbhum_jharkhand"
+        ]
+    },
+    "sindhudurg_maharashtra": {
+        "id": 626,
+        "neighbors": [
+            "belagavi_karnataka",
+            "kolhapur_maharashtra",
+            "ratnagiri_maharashtra",
+            "unknown_goa"
+        ]
+    },
+    "singrauli_madhya pradesh": {
+        "id": 627,
+        "neighbors": [
+            "balrampur_chhattisgarh",
+            "koriya_chhattisgarh",
+            "mirzapur_uttar pradesh",
+            "rewa_madhya pradesh",
+            "sidhi_madhya pradesh",
+            "sonbhadra_uttar pradesh",
+            "surajpur_chhattisgarh"
+        ]
+    },
+    "sipahijala_tripura": {
+        "id": 628,
+        "neighbors": [
+            "gomati_tripura",
+            "khowai_tripura",
+            "south tripura_tripura",
+            "west tripura_tripura"
+        ]
+    },
+    "sirmaur_himachal pradesh": {
+        "id": 629,
+        "neighbors": [
+            "ambala_haryana",
+            "dehradun_uttarakhand",
+            "panchkula_haryana",
+            "saharanpur_uttar pradesh",
+            "shimla_himachal pradesh",
+            "solan_himachal pradesh",
+            "yamunanagar_haryana"
+        ]
+    },
+    "sirohi_rajasthan": {
+        "id": 630,
+        "neighbors": [
+            "banaskantha_gujarat",
+            "jalore_rajasthan",
+            "pali_rajasthan",
+            "sabarkantha_gujarat",
+            "udaipur_rajasthan"
+        ]
+    },
+    "sirsa_haryana": {
+        "id": 631,
+        "neighbors": [
+            "bathinda_punjab",
+            "fatehabad_haryana",
+            "hanumangarh_rajasthan",
+            "mansa_punjab",
+            "sri muktsar sahib_punjab"
+        ]
+    },
+    "sitamarhi_bihar": {
+        "id": 632,
+        "neighbors": [
+            "darbhanga_bihar",
+            "east champaran_bihar",
+            "madhubani_bihar",
+            "muzaffarpur_bihar",
+            "sheohar_bihar"
+        ]
+    },
+    "sitapur_uttar pradesh": {
+        "id": 633,
+        "neighbors": [
+            "bahraich_uttar pradesh",
+            "barabanki_uttar pradesh",
+            "hardoi_uttar pradesh",
+            "lakhimpur kheri_uttar pradesh",
+            "lucknow_uttar pradesh"
+        ]
+    },
+    "sivaganga_tamil nadu": {
+        "id": 634,
+        "neighbors": [
+            "madurai_tamil nadu",
+            "pudukkottai_tamil nadu",
+            "ramanathapuram_tamil nadu",
+            "tiruchirappalli_tamil nadu",
+            "virudhunagar_tamil nadu"
+        ]
+    },
+    "siwan_bihar": {
+        "id": 635,
+        "neighbors": [
+            "ballia_uttar pradesh",
+            "deoria_uttar pradesh",
+            "gopalganj_bihar",
+            "saran_bihar"
+        ]
+    },
+    "solan_himachal pradesh": {
+        "id": 636,
+        "neighbors": [
+            "bilaspur_himachal pradesh",
+            "mandi_himachal pradesh",
+            "panchkula_haryana",
+            "rupnagar_punjab",
+            "s.a.s. nagar_punjab",
+            "shimla_himachal pradesh",
+            "sirmaur_himachal pradesh"
+        ]
+    },
+    "solapur_maharashtra": {
+        "id": 637,
+        "neighbors": [
+            "ahmednagar_maharashtra",
+            "kalaburagi_karnataka",
+            "osmanabad_maharashtra",
+            "pune_maharashtra",
+            "sangli_maharashtra",
+            "satara_maharashtra",
+            "vijayapura_karnataka"
+        ]
+    },
+    "sonbhadra_uttar pradesh": {
+        "id": 638,
+        "neighbors": [
+            "balrampur_chhattisgarh",
+            "chandauli_uttar pradesh",
+            "garhwa_jharkhand",
+            "kaimur_bihar",
+            "mirzapur_uttar pradesh",
+            "rohtas_bihar",
+            "singrauli_madhya pradesh"
+        ]
+    },
+    "sonipat_haryana": {
+        "id": 639,
+        "neighbors": [
+            "baghpat_uttar pradesh",
+            "delhi_delhi",
+            "jhajjar_haryana",
+            "jind_haryana",
+            "panipat_haryana",
+            "rohtak_haryana"
+        ]
+    },
+    "south 24 parganas_west bengal": {
+        "id": 640,
+        "neighbors": [
+            "howrah_west bengal",
+            "kolkata_west bengal",
+            "north 24 parganas_west bengal",
+            "purba medinipur_west bengal"
+        ]
+    },
+    "south garo hills_meghalaya": {
+        "id": 641,
+        "neighbors": [
+            "east garo hills_meghalaya",
+            "south west khasi hills_meghalaya",
+            "west garo hills_meghalaya",
+            "west khasi hills_meghalaya"
+        ]
+    },
+    "south tripura_tripura": {
+        "id": 642,
+        "neighbors": [
+            "gomati_tripura",
+            "sipahijala_tripura"
+        ]
+    },
+    "south west garo hills_meghalaya": {
+        "id": 643,
+        "neighbors": [
+            "unknown_assam",
+            "west garo hills_meghalaya"
+        ]
+    },
+    "south west khasi hills_meghalaya": {
+        "id": 644,
+        "neighbors": [
+            "east khasi hills_meghalaya",
+            "south garo hills_meghalaya",
+            "west khasi hills_meghalaya"
+        ]
+    },
+    "sri muktsar sahib_punjab": {
+        "id": 645,
+        "neighbors": [
+            "bathinda_punjab",
+            "faridkot_punjab",
+            "fazilka_punjab",
+            "ferozepur_punjab",
+            "hanumangarh_rajasthan",
+            "sirsa_haryana"
+        ]
+    },
+    "srikakulam_andhra pradesh": {
+        "id": 646,
+        "neighbors": [
+            "gajapati_odisha",
+            "ganjam_odisha",
+            "rayagada_odisha",
+            "vizianagaram_andhra pradesh"
+        ]
+    },
+    "srinagar_jammu and kashmir": {
+        "id": 647,
+        "neighbors": [
+            "anantnag_jammu and kashmir",
+            "bandipora_jammu and kashmir",
+            "baramulla_jammu and kashmir",
+            "budgam_jammu and kashmir",
+            "ganderbal_jammu and kashmir",
+            "pulwama_jammu and kashmir"
+        ]
+    },
+    "subarnapur_odisha": {
+        "id": 648,
+        "neighbors": [
+            "angul_odisha",
+            "balangir_odisha",
+            "bargarh_odisha",
+            "boudh_odisha",
+            "sambalpur_odisha"
+        ]
+    },
+    "sukma_chhattisgarh": {
+        "id": 649,
+        "neighbors": [
+            "bastar_chhattisgarh",
+            "bijapur_chhattisgarh",
+            "dakshin bastar dantewada_chhattisgarh",
+            "east godavari_andhra pradesh",
+            "malkangiri_odisha",
+            "unknown_telangana"
+        ]
+    },
+    "sultanpur_uttar pradesh": {
+        "id": 650,
+        "neighbors": [
+            "ambedkar nagar_uttar pradesh",
+            "amethi_uttar pradesh",
+            "ayodhya_uttar pradesh",
+            "azamgarh_uttar pradesh",
+            "jaunpur_uttar pradesh",
+            "pratapgarh_uttar pradesh"
+        ]
+    },
+    "sundargarh_odisha": {
+        "id": 651,
+        "neighbors": [
+            "angul_odisha",
+            "deogarh_odisha",
+            "jashpur_chhattisgarh",
+            "jharsuguda_odisha",
+            "kendujhar_odisha",
+            "raigarh_chhattisgarh",
+            "sambalpur_odisha",
+            "simdega_jharkhand",
+            "west singhbhum_jharkhand"
+        ]
+    },
+    "supaul_bihar": {
+        "id": 652,
+        "neighbors": [
+            "araria_bihar",
+            "madhepura_bihar",
+            "madhubani_bihar",
+            "saharsa_bihar"
+        ]
+    },
+    "surajpur_chhattisgarh": {
+        "id": 653,
+        "neighbors": [
+            "balrampur_chhattisgarh",
+            "korba_chhattisgarh",
+            "koriya_chhattisgarh",
+            "singrauli_madhya pradesh",
+            "surguja_chhattisgarh"
+        ]
+    },
+    "surat_gujarat": {
+        "id": 654,
+        "neighbors": [
+            "bharuch_gujarat",
+            "narmada_gujarat",
+            "navsari_gujarat",
+            "tapi_gujarat"
+        ]
+    },
+    "surendranagar_gujarat": {
+        "id": 655,
+        "neighbors": [
+            "ahmedabad_gujarat",
+            "botad_gujarat",
+            "kutch_gujarat",
+            "mehsana_gujarat",
+            "morbi_gujarat",
+            "patan_gujarat",
+            "rajkot_gujarat"
+        ]
+    },
+    "surguja_chhattisgarh": {
+        "id": 656,
+        "neighbors": [
+            "balrampur_chhattisgarh",
+            "jashpur_chhattisgarh",
+            "korba_chhattisgarh",
+            "raigarh_chhattisgarh",
+            "surajpur_chhattisgarh"
+        ]
+    },
+    "tapi_gujarat": {
+        "id": 657,
+        "neighbors": [
+            "dang_gujarat",
+            "dhule_maharashtra",
+            "nandurbar_maharashtra",
+            "narmada_gujarat",
+            "navsari_gujarat",
+            "surat_gujarat"
+        ]
+    },
+    "tarn taran_punjab": {
+        "id": 658,
+        "neighbors": [
+            "amritsar_punjab",
+            "ferozepur_punjab",
+            "kapurthala_punjab"
+        ]
+    },
+    "tawang_arunachal pradesh": {
+        "id": 659,
+        "neighbors": [
+            "east kameng_arunachal pradesh",
+            "west kameng_arunachal pradesh"
+        ]
+    },
+    "tehri garhwal_uttarakhand": {
+        "id": 660,
+        "neighbors": [
+            "dehradun_uttarakhand",
+            "pauri garhwal_uttarakhand",
+            "rudraprayag_uttarakhand",
+            "uttarkashi_uttarakhand"
+        ]
+    },
+    "thane_maharashtra": {
+        "id": 661,
+        "neighbors": [
+            "ahmednagar_maharashtra",
+            "mumbai_maharashtra",
+            "nashik_maharashtra",
+            "palghar_maharashtra",
+            "pune_maharashtra",
+            "raigad_maharashtra"
+        ]
+    },
+    "thanjavur_tamil nadu": {
+        "id": 662,
+        "neighbors": [
+            "ariyalur_tamil nadu",
+            "cuddalore_tamil nadu",
+            "nagapattinam_tamil nadu",
+            "pudukkottai_tamil nadu",
+            "thiruvarur_tamil nadu",
+            "tiruchirappalli_tamil nadu"
+        ]
+    },
+    "theni_tamil nadu": {
+        "id": 663,
+        "neighbors": [
+            "dindigul_tamil nadu",
+            "idukki_kerala",
+            "madurai_tamil nadu",
+            "virudhunagar_tamil nadu"
+        ]
+    },
+    "thiruvallur_tamil nadu": {
+        "id": 664,
+        "neighbors": [
+            "chennai_tamil nadu",
+            "chittoor_andhra pradesh",
+            "kancheepuram_tamil nadu",
+            "s.p.s. nellore_andhra pradesh",
+            "vellore_tamil nadu"
+        ]
+    },
+    "thiruvananthapuram_kerala": {
+        "id": 665,
+        "neighbors": [
+            "kanyakumari_tamil nadu",
+            "kollam_kerala",
+            "tirunelveli_tamil nadu"
+        ]
+    },
+    "thiruvarur_tamil nadu": {
+        "id": 666,
+        "neighbors": [
+            "karaikal_puducherry",
+            "nagapattinam_tamil nadu",
+            "thanjavur_tamil nadu"
+        ]
+    },
+    "thoothukkudi_tamil nadu": {
+        "id": 667,
+        "neighbors": [
+            "ramanathapuram_tamil nadu",
+            "tirunelveli_tamil nadu",
+            "virudhunagar_tamil nadu"
+        ]
+    },
+    "thrissur_kerala": {
+        "id": 668,
+        "neighbors": [
+            "coimbatore_tamil nadu",
+            "ernakulam_kerala",
+            "malappuram_kerala",
+            "palakkad_kerala"
+        ]
+    },
+    "tikamgarh_madhya pradesh": {
+        "id": 669,
+        "neighbors": [
+            "chhatarpur_madhya pradesh",
+            "jhansi_uttar pradesh",
+            "lalitpur_uttar pradesh",
+            "niwari_madhya pradesh"
+        ]
+    },
+    "tirap_arunachal pradesh": {
+        "id": 670,
+        "neighbors": [
+            "changlang_arunachal pradesh",
+            "longding_arunachal pradesh",
+            "unknown_assam"
+        ]
+    },
+    "tiruchirappalli_tamil nadu": {
+        "id": 671,
+        "neighbors": [
+            "ariyalur_tamil nadu",
+            "dindigul_tamil nadu",
+            "karur_tamil nadu",
+            "madurai_tamil nadu",
+            "namakkal_tamil nadu",
+            "perambalur_tamil nadu",
+            "pudukkottai_tamil nadu",
+            "salem_tamil nadu",
+            "sivaganga_tamil nadu",
+            "thanjavur_tamil nadu"
+        ]
+    },
+    "tirunelveli_tamil nadu": {
+        "id": 672,
+        "neighbors": [
+            "idukki_kerala",
+            "kanyakumari_tamil nadu",
+            "kollam_kerala",
+            "pathanamthitta_kerala",
+            "thiruvananthapuram_kerala",
+            "thoothukkudi_tamil nadu",
+            "virudhunagar_tamil nadu"
+        ]
+    },
+    "tiruppur_tamil nadu": {
+        "id": 673,
+        "neighbors": [
+            "coimbatore_tamil nadu",
+            "dindigul_tamil nadu",
+            "erode_tamil nadu",
+            "idukki_kerala",
+            "karur_tamil nadu"
+        ]
+    },
+    "tiruvannamalai_tamil nadu": {
+        "id": 674,
+        "neighbors": [
+            "dharmapuri_tamil nadu",
+            "kallakurichi_tamil nadu",
+            "kancheepuram_tamil nadu",
+            "krishnagiri_tamil nadu",
+            "vellore_tamil nadu",
+            "viluppuram_tamil nadu"
+        ]
+    },
+    "tonk_rajasthan": {
+        "id": 675,
+        "neighbors": [
+            "ajmer_rajasthan",
+            "bhilwara_rajasthan",
+            "bundi_rajasthan",
+            "dausa_rajasthan",
+            "jaipur_rajasthan",
+            "sawai madhopur_rajasthan"
+        ]
+    },
+    "tuensang_nagaland": {
+        "id": 676,
+        "neighbors": [
+            "mon_nagaland"
+        ]
+    },
+    "tumakuru_karnataka": {
+        "id": 677,
+        "neighbors": [
+            "anantapur_andhra pradesh",
+            "bengaluru rural_karnataka",
+            "chikkaballapura_karnataka",
+            "chikkamagaluru_karnataka",
+            "chitradurga_karnataka",
+            "hassan_karnataka",
+            "mandya_karnataka",
+            "ramanagara_karnataka"
+        ]
+    },
+    "udaipur_rajasthan": {
+        "id": 678,
+        "neighbors": [
+            "aravalli_gujarat",
+            "chittorgarh_rajasthan",
+            "dungarpur_rajasthan",
+            "pali_rajasthan",
+            "pratapgarh_rajasthan",
+            "rajsamand_rajasthan",
+            "sabarkantha_gujarat",
+            "sirohi_rajasthan"
+        ]
+    },
+    "udham singh nagar_uttarakhand": {
+        "id": 679,
+        "neighbors": [
+            "bareilly_uttar pradesh",
+            "bijnor_uttar pradesh",
+            "champawat_uttarakhand",
+            "moradabad_uttar pradesh",
+            "nainital_uttarakhand",
+            "pilibhit_uttar pradesh",
+            "rampur_uttar pradesh"
+        ]
+    },
+    "udhampur_jammu and kashmir": {
+        "id": 680,
+        "neighbors": [
+            "doda_jammu and kashmir",
+            "jammu_jammu and kashmir",
+            "kathua_jammu and kashmir",
+            "ramban_jammu and kashmir",
+            "reasi_jammu and kashmir",
+            "samba_jammu and kashmir"
+        ]
+    },
+    "udupi_karnataka": {
+        "id": 681,
+        "neighbors": [
+            "chikkamagaluru_karnataka",
+            "dakshina kannada_karnataka",
+            "shivamogga_karnataka",
+            "uttara kannada_karnataka"
+        ]
+    },
+    "ujjain_madhya pradesh": {
+        "id": 682,
+        "neighbors": [
+            "agar malwa_madhya pradesh",
+            "dewas_madhya pradesh",
+            "dhar_madhya pradesh",
+            "indore_madhya pradesh",
+            "ratlam_madhya pradesh",
+            "shajapur_madhya pradesh"
+        ]
+    },
+    "umaria_madhya pradesh": {
+        "id": 683,
+        "neighbors": [
+            "anuppur_madhya pradesh",
+            "dindori_madhya pradesh",
+            "jabalpur_madhya pradesh",
+            "katni_madhya pradesh",
+            "satna_madhya pradesh",
+            "shahdol_madhya pradesh"
+        ]
+    },
+    "una_himachal pradesh": {
+        "id": 684,
+        "neighbors": [
+            "bilaspur_himachal pradesh",
+            "hamirpur_himachal pradesh",
+            "hoshiarpur_punjab",
+            "kangra_himachal pradesh",
+            "rupnagar_punjab"
+        ]
+    },
+    "unknown_assam": {
+        "id": 685,
+        "neighbors": [
+            "aizawl_mizoram",
+            "alipurduar_west bengal",
+            "changlang_arunachal pradesh",
+            "cooch behar_west bengal",
+            "dimapur_nagaland",
+            "east jaintia hills_meghalaya",
+            "east siang_arunachal pradesh",
+            "kamle_arunachal pradesh",
+            "kohima_nagaland",
+            "kolasib_mizoram",
+            "lohit_arunachal pradesh",
+            "longding_arunachal pradesh",
+            "longleng_nagaland",
+            "lower dibang valley_arunachal pradesh",
+            "lower siang_arunachal pradesh",
+            "mamit_mizoram",
+            "mokokchung_nagaland",
+            "mon_nagaland",
+            "namsai_arunachal pradesh",
+            "north garo hills_meghalaya",
+            "north tripura_tripura",
+            "pakke kessang_arunachal pradesh",
+            "papum pare_arunachal pradesh",
+            "peren_nagaland",
+            "ribhoi_meghalaya",
+            "south west garo hills_meghalaya",
+            "tirap_arunachal pradesh",
+            "unknown_manipur",
+            "west garo hills_meghalaya",
+            "west jaintia hills_meghalaya",
+            "west kameng_arunachal pradesh",
+            "west khasi hills_meghalaya",
+            "wokha_nagaland"
+        ]
+    },
+    "unknown_goa": {
+        "id": 686,
+        "neighbors": [
+            "belagavi_karnataka",
+            "sindhudurg_maharashtra",
+            "uttara kannada_karnataka"
+        ]
+    },
+    "unknown_manipur": {
+        "id": 687,
+        "neighbors": [
+            "aizawl_mizoram",
+            "champhai_mizoram",
+            "kohima_nagaland",
+            "peren_nagaland",
+            "phek_nagaland",
+            "unknown_assam"
+        ]
+    },
+    "unknown_sikkim": {
+        "id": 688,
+        "neighbors": [
+            "darjeeling_west bengal",
+            "kalimpong_west bengal"
+        ]
+    },
+    "unknown_telangana": {
+        "id": 689,
+        "neighbors": [
+            "bidar_karnataka",
+            "bijapur_chhattisgarh",
+            "chandrapur_maharashtra",
+            "east godavari_andhra pradesh",
+            "gadchiroli_maharashtra",
+            "guntur_andhra pradesh",
+            "kalaburagi_karnataka",
+            "krishna_andhra pradesh",
+            "kurnool_andhra pradesh",
+            "nanded_maharashtra",
+            "prakasam_andhra pradesh",
+            "raichur_karnataka",
+            "sukma_chhattisgarh",
+            "west godavari_andhra pradesh",
+            "yadgir_karnataka",
+            "yavatmal_maharashtra"
+        ]
+    },
+    "unnao_uttar pradesh": {
+        "id": 690,
+        "neighbors": [
+            "fatehpur_uttar pradesh",
+            "hardoi_uttar pradesh",
+            "kanpur nagar_uttar pradesh",
+            "lucknow_uttar pradesh",
+            "rae bareli_uttar pradesh"
+        ]
+    },
+    "unokoti_tripura": {
+        "id": 691,
+        "neighbors": [
+            "dhalai_tripura",
+            "north tripura_tripura"
+        ]
+    },
+    "upper dibang valley_arunachal pradesh": {
+        "id": 692,
+        "neighbors": [
+            "lower dibang valley_arunachal pradesh",
+            "upper siang_arunachal pradesh"
+        ]
+    },
+    "upper siang_arunachal pradesh": {
+        "id": 693,
+        "neighbors": [
+            "east siang_arunachal pradesh",
+            "lower dibang valley_arunachal pradesh",
+            "shi yomi_arunachal pradesh",
+            "siang_arunachal pradesh",
+            "upper dibang valley_arunachal pradesh"
+        ]
+    },
+    "upper subansiri_arunachal pradesh": {
+        "id": 694,
+        "neighbors": [
+            "kamle_arunachal pradesh",
+            "kra daadi_arunachal pradesh",
+            "kurung kumey_arunachal pradesh",
+            "lepa rada_arunachal pradesh",
+            "lower siang_arunachal pradesh",
+            "shi yomi_arunachal pradesh",
+            "west siang_arunachal pradesh"
+        ]
+    },
+    "uttar bastar kanker_chhattisgarh": {
+        "id": 695,
+        "neighbors": [
+            "balod_chhattisgarh",
+            "dhamtari_chhattisgarh",
+            "gadchiroli_maharashtra",
+            "kondagaon_chhattisgarh",
+            "narayanpur_chhattisgarh",
+            "rajnandgaon_chhattisgarh"
+        ]
+    },
+    "uttar dinajpur_west bengal": {
+        "id": 696,
+        "neighbors": [
+            "dakshin dinajpur_west bengal",
+            "darjeeling_west bengal",
+            "katihar_bihar",
+            "kishanganj_bihar",
+            "malda_west bengal",
+            "purnia_bihar"
+        ]
+    },
+    "uttara kannada_karnataka": {
+        "id": 697,
+        "neighbors": [
+            "belagavi_karnataka",
+            "dharwad_karnataka",
+            "haveri_karnataka",
+            "shivamogga_karnataka",
+            "udupi_karnataka",
+            "unknown_goa"
+        ]
+    },
+    "uttarkashi_uttarakhand": {
+        "id": 698,
+        "neighbors": [
+            "chamoli_uttarakhand",
+            "dehradun_uttarakhand",
+            "kinnaur_himachal pradesh",
+            "rudraprayag_uttarakhand",
+            "shimla_himachal pradesh",
+            "tehri garhwal_uttarakhand"
+        ]
+    },
+    "vadodara_gujarat": {
+        "id": 699,
+        "neighbors": [
+            "anand_gujarat",
+            "bharuch_gujarat",
+            "chhota udaipur_gujarat",
+            "kheda_gujarat",
+            "narmada_gujarat",
+            "panchmahal_gujarat"
+        ]
+    },
+    "vaishali_bihar": {
+        "id": 700,
+        "neighbors": [
+            "muzaffarpur_bihar",
+            "patna_bihar",
+            "samastipur_bihar",
+            "saran_bihar"
+        ]
+    },
+    "valsad_gujarat": {
+        "id": 701,
+        "neighbors": [
+            "dadra and nagar haveli_dadra and nagar haveli and daman and diu",
+            "daman_dadra and nagar haveli and daman and diu",
+            "nashik_maharashtra",
+            "navsari_gujarat",
+            "palghar_maharashtra"
+        ]
+    },
+    "varanasi_uttar pradesh": {
+        "id": 702,
+        "neighbors": [
+            "bhadohi_uttar pradesh",
+            "chandauli_uttar pradesh",
+            "ghazipur_uttar pradesh",
+            "jaunpur_uttar pradesh",
+            "mirzapur_uttar pradesh"
+        ]
+    },
+    "vellore_tamil nadu": {
+        "id": 703,
+        "neighbors": [
+            "chittoor_andhra pradesh",
+            "kancheepuram_tamil nadu",
+            "krishnagiri_tamil nadu",
+            "thiruvallur_tamil nadu",
+            "tiruvannamalai_tamil nadu"
+        ]
+    },
+    "vidisha_madhya pradesh": {
+        "id": 704,
+        "neighbors": [
+            "ashoknagar_madhya pradesh",
+            "bhopal_madhya pradesh",
+            "guna_madhya pradesh",
+            "raisen_madhya pradesh",
+            "sagar_madhya pradesh"
+        ]
+    },
+    "vijayapura_karnataka": {
+        "id": 705,
+        "neighbors": [
+            "bagalkote_karnataka",
+            "belagavi_karnataka",
+            "kalaburagi_karnataka",
+            "raichur_karnataka",
+            "sangli_maharashtra",
+            "solapur_maharashtra",
+            "yadgir_karnataka"
+        ]
+    },
+    "viluppuram_tamil nadu": {
+        "id": 706,
+        "neighbors": [
+            "cuddalore_tamil nadu",
+            "kallakurichi_tamil nadu",
+            "kancheepuram_tamil nadu",
+            "puducherry_puducherry",
+            "tiruvannamalai_tamil nadu"
+        ]
+    },
+    "virudhunagar_tamil nadu": {
+        "id": 707,
+        "neighbors": [
+            "idukki_kerala",
+            "madurai_tamil nadu",
+            "ramanathapuram_tamil nadu",
+            "sivaganga_tamil nadu",
+            "theni_tamil nadu",
+            "thoothukkudi_tamil nadu",
+            "tirunelveli_tamil nadu"
+        ]
+    },
+    "visakhapatnam_andhra pradesh": {
+        "id": 708,
+        "neighbors": [
+            "east godavari_andhra pradesh",
+            "koraput_odisha",
+            "malkangiri_odisha",
+            "vizianagaram_andhra pradesh"
+        ]
+    },
+    "vizianagaram_andhra pradesh": {
+        "id": 709,
+        "neighbors": [
+            "koraput_odisha",
+            "rayagada_odisha",
+            "srikakulam_andhra pradesh",
+            "visakhapatnam_andhra pradesh"
+        ]
+    },
+    "wardha_maharashtra": {
+        "id": 710,
+        "neighbors": [
+            "amravati_maharashtra",
+            "chandrapur_maharashtra",
+            "nagpur_maharashtra",
+            "yavatmal_maharashtra"
+        ]
+    },
+    "washim_maharashtra": {
+        "id": 711,
+        "neighbors": [
+            "akola_maharashtra",
+            "amravati_maharashtra",
+            "buldhana_maharashtra",
+            "hingoli_maharashtra",
+            "parbhani_maharashtra",
+            "yavatmal_maharashtra"
+        ]
+    },
+    "wayanad_kerala": {
+        "id": 712,
+        "neighbors": [
+            "chamarajanagara_karnataka",
+            "kannur_kerala",
+            "kodagu_karnataka",
+            "kozhikode_kerala",
+            "malappuram_kerala",
+            "mysuru_karnataka",
+            "nilgiris_tamil nadu"
+        ]
+    },
+    "west champaran_bihar": {
+        "id": 713,
+        "neighbors": [
+            "east champaran_bihar",
+            "gopalganj_bihar",
+            "kushinagar_uttar pradesh",
+            "maharajganj_uttar pradesh"
+        ]
+    },
+    "west garo hills_meghalaya": {
+        "id": 714,
+        "neighbors": [
+            "east garo hills_meghalaya",
+            "north garo hills_meghalaya",
+            "south garo hills_meghalaya",
+            "south west garo hills_meghalaya",
+            "unknown_assam"
+        ]
+    },
+    "west godavari_andhra pradesh": {
+        "id": 715,
+        "neighbors": [
+            "east godavari_andhra pradesh",
+            "krishna_andhra pradesh",
+            "unknown_telangana"
+        ]
+    },
+    "west jaintia hills_meghalaya": {
+        "id": 716,
+        "neighbors": [
+            "east jaintia hills_meghalaya",
+            "east khasi hills_meghalaya",
+            "ribhoi_meghalaya",
+            "unknown_assam"
+        ]
+    },
+    "west kameng_arunachal pradesh": {
+        "id": 717,
+        "neighbors": [
+            "east kameng_arunachal pradesh",
+            "pakke kessang_arunachal pradesh",
+            "tawang_arunachal pradesh",
+            "unknown_assam"
+        ]
+    },
+    "west khasi hills_meghalaya": {
+        "id": 718,
+        "neighbors": [
+            "east garo hills_meghalaya",
+            "east khasi hills_meghalaya",
+            "north garo hills_meghalaya",
+            "ribhoi_meghalaya",
+            "south garo hills_meghalaya",
+            "south west khasi hills_meghalaya",
+            "unknown_assam"
+        ]
+    },
+    "west siang_arunachal pradesh": {
+        "id": 719,
+        "neighbors": [
+            "lepa rada_arunachal pradesh",
+            "lower siang_arunachal pradesh",
+            "shi yomi_arunachal pradesh",
+            "siang_arunachal pradesh",
+            "upper subansiri_arunachal pradesh"
+        ]
+    },
+    "west singhbhum_jharkhand": {
+        "id": 720,
+        "neighbors": [
+            "kendujhar_odisha",
+            "khunti_jharkhand",
+            "mayurbhanj_odisha",
+            "saraikela-kharsawan_jharkhand",
+            "simdega_jharkhand",
+            "sundargarh_odisha"
+        ]
+    },
+    "west tripura_tripura": {
+        "id": 721,
+        "neighbors": [
+            "khowai_tripura",
+            "sipahijala_tripura"
+        ]
+    },
+    "wokha_nagaland": {
+        "id": 722,
+        "neighbors": [
+            "kohima_nagaland",
+            "mokokchung_nagaland",
+            "unknown_assam",
+            "zunheboto_nagaland"
+        ]
+    },
+    "y.s.r. kadapa_andhra pradesh": {
+        "id": 723,
+        "neighbors": [
+            "anantapur_andhra pradesh",
+            "chittoor_andhra pradesh",
+            "kurnool_andhra pradesh",
+            "prakasam_andhra pradesh",
+            "s.p.s. nellore_andhra pradesh"
+        ]
+    },
+    "yadgir_karnataka": {
+        "id": 724,
+        "neighbors": [
+            "kalaburagi_karnataka",
+            "raichur_karnataka",
+            "unknown_telangana",
+            "vijayapura_karnataka"
+        ]
+    },
+    "yamunanagar_haryana": {
+        "id": 725,
+        "neighbors": [
+            "ambala_haryana",
+            "karnal_haryana",
+            "kurukshetra_haryana",
+            "saharanpur_uttar pradesh",
+            "sirmaur_himachal pradesh"
+        ]
+    },
+    "yavatmal_maharashtra": {
+        "id": 726,
+        "neighbors": [
+            "amravati_maharashtra",
+            "chandrapur_maharashtra",
+            "hingoli_maharashtra",
+            "nanded_maharashtra",
+            "unknown_telangana",
+            "wardha_maharashtra",
+            "washim_maharashtra"
+        ]
+    },
+    "zunheboto_nagaland": {
+        "id": 727,
+        "neighbors": [
+            "kiphire_nagaland",
+            "kohima_nagaland",
+            "mokokchung_nagaland",
+            "phek_nagaland",
+            "tuensang_nagaland",
+            "wokha_nagaland"
+        ]
+    }
+}
